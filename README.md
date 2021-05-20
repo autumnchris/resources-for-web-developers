@@ -58,3 +58,17 @@ Codecademy's [Learn Intermediate CSS course](https://www.codecademy.com/learn/le
 Udacity's [Responsive Web Design Fundamentals course](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) | Free
 Udacity's [Responsive Images course](https://www.udacity.com/course/responsive-images--ud882) | Free
 Udacity's [Web Accessibility course](https://www.udacity.com/course/web-accessibility--ud891) | Free
+
+## Command Line, Git, GitHub, and Markdown
+
+Name | Cost
+---- | ----
+[Command Line Power User course](https://commandlinepoweruser.com) by Wes Bos | Free
+[Unix/Linux Commands cheat sheet](http://www.cheat-sheets.org/saved-copy/fwunixref.pdf) | Free
+[Mastering Markdown course](https://masteringmarkdown.com) by Wes Bos | Free
+[Markdown cheat sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) | Free
+Udacity's [Writing READMEs course](https://www.udacity.com/course/writing-readmes--ud777) | Free
+[GitHub Desktop](https://desktop.github.com) | Free
+[Git cheat sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf) | Free
+W3Schools's [Git Tutorial](https://www.w3schools.com/git/default.asp) | Free
+Udacity's [Version Control with Git course](https://www.udacity.com/course/version-control-with-git--ud123) | Free
