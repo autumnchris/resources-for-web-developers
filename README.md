@@ -79,6 +79,25 @@ Name | Cost
 freeCodeCamp's [SASS course](https://www.freecodecamp.org/learn/front-end-libraries/#sass) | Free
 W3Schools's [Sass Tutorial](https://www.w3schools.com/sass/default.php) | Free
 
+### HTML and CSS Tools
+
+Name | Cost
+---- | ----
+[W3C Markup Validator](https://validator.w3.org) | Free
+[W3C CSS Validator](http://jigsaw.w3.org/css-validator) | Free
+[HTML tags list](https://html-css-js.com/html/tags) | Free
+W3Schools's [HTML Color Picker](https://www.w3schools.com/colors/colors_picker.asp) | Free
+[Color Contrast Checker](https://webaim.org/resources/contrastchecker) | Free
+[Web Accessibility Evaluation Tool](https://wave.webaim.org) | Free
+[Autoprefixer CSS online](https://autoprefixer.github.io) | Free
+[CSS Gradient Generator](https://angrytools.com/gradient) | Free
+[Gradient Hunt](https://gradienthunt.com) | Free
+[Gradienta CSS gradients](https://gradienta.io) | Free
+[Image to Colors Palette Generator](http://www.cssdrive.com/imagepalette/index.php) | Free
+[Palette List](https://www.palettelist.com) | Free
+[Color Hunt](https://colorhunt.co) | Free
+[CSS Minifier](https://cssminifier.com) | Free
+
 ## Command Line, Git, GitHub, and Markdown
 
 Name | Cost
