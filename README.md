@@ -59,6 +59,22 @@ Udacity's [Responsive Web Design Fundamentals course](https://www.udacity.com/co
 Udacity's [Responsive Images course](https://www.udacity.com/course/responsive-images--ud882) | Free
 Udacity's [Web Accessibility course](https://www.udacity.com/course/web-accessibility--ud891) | Free
 
+### Flexbox and CSS Grid
+
+Name | Cost
+---- | ----
+freeCodeCamp's [CSS Flexbox course](https://www.freecodecamp.org/learn/responsive-web-design/#css-flexbox) | Free
+[What the Flexbox?! course](https://flexbox.io) by Wes Bos | Free
+[Flexbox Playground](https://the-echoplex.net/flexyboxes) | Free
+[Flexbox cheat sheet](https://flexbox.malven.co) | Free
+freeCodeCamp's [CSS Grid course](https://www.freecodecamp.org/learn/responsive-web-design/#css-grid) | Free
+[CSS Grid course](https://cssgrid.io) by Wes Bos | Free
+[CSS Grid cheat sheet](https://grid.malven.co) | Free
+
+## Stock Images
+
+Check whether the owner allows their images to be used for both commercial use and personal use or for personal use only. Also check if the owner requires credit attribution.
+
 ## Command Line, Git, GitHub, and Markdown
 
 Name | Cost
