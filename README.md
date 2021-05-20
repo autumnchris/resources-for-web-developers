@@ -43,3 +43,18 @@ JavaScript Best Practices tutorial by Thinkful: [Part 1](https://www.thinkful.co
 [Udacity's JavaScript and the DOM course](https://www.udacity.com/course/javascript-and-the-dom--ud117) | Free
 [JavaScript30 course](https://javascript30.com) by Wes Bos | Free
 [JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions) by sudheerj on GitHub | Free
+
+## HTML and CSS
+
+Name | Cost
+---- | ----
+freeCodeCamp's [Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design) | Free
+W3Schools's [HTML Tutorial](https://www.w3schools.com/html/default.asp) | Free
+W3Schools's [CSS Tutorial](https://www.w3schools.com/css/default.asp) | Free
+Udacity's [Intro to HTML and CSS course](https://www.udacity.com/course/intro-to-html-and-css--ud001) | Free
+Codecademy's [Learn HTML course](https://www.codecademy.com/learn/learn-html) | Free
+Codecademy's [Learn CSS course](https://www.codecademy.com/learn/learn-css) | Free
+Codecademy's [Learn Intermediate CSS course](https://www.codecademy.com/learn/learn-intermediate-css) | Free
+Udacity's [Responsive Web Design Fundamentals course](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) | Free
+Udacity's [Responsive Images course](https://www.udacity.com/course/responsive-images--ud882) | Free
+Udacity's [Web Accessibility course](https://www.udacity.com/course/web-accessibility--ud891) | Free
