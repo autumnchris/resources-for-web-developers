@@ -71,10 +71,6 @@ freeCodeCamp's [CSS Grid course](https://www.freecodecamp.org/learn/responsive-w
 [CSS Grid course](https://cssgrid.io) by Wes Bos | Free
 [CSS Grid cheat sheet](https://grid.malven.co) | Free
 
-## Stock Images
-
-Check whether the owner allows their images to be used for both commercial use and personal use or for personal use only. Also check if the owner requires credit attribution.
-
 ## Command Line, Git, GitHub, and Markdown
 
 Name | Cost
