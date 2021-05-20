@@ -29,3 +29,17 @@ Name | Cost
 [LearnWebCode](https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ) | Free
 [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw) | Free
 [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA) | Free
+
+## JavaScript
+
+Name | Cost
+---- | ----
+freeCodeCamp's [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures) | Free
+W3Schools's [JavaScript Tutorial](https://www.w3schools.com/js/default.asp) | Free
+Udacity's [Intro to JavaScript course](https://www.udacity.com/course/intro-to-javascript--ud803) | Free
+Codecademy's [Learn JavaScript course](https://www.codecademy.com/learn/introduction-to-javascript) | Free
+[JavaScript.info](https://javascript.info) | Free
+JavaScript Best Practices tutorial by Thinkful: [Part 1](https://www.thinkful.com/learn/javascript-best-practices-1), [Part 2](https://www.thinkful.com/learn/javascript-best-practices-2) | Free
+[Udacity's JavaScript and the DOM course](https://www.udacity.com/course/javascript-and-the-dom--ud117) | Free
+[JavaScript30 course](https://javascript30.com) by Wes Bos | Free
+[JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions) by sudheerj on GitHub | Free
