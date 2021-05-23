@@ -6,6 +6,18 @@ Please read the [contributing guidelines](./CONTRIBUTING.md) before submitting n
 
 ---
 
+## Index
+
+* [General Resources](#general-resources)
+  * [Tutorials and Docs](#tutorials-and-docs)
+  * [YouTube Channels](#youtube-channels)
+* [JavaScript](#javascript)
+* [HTML and CSS](#html-and-css)
+  * [Flexbox and CSS Grid](#flexbox-and-css-grid)
+  * [Sass](#sass)
+  * [HTML and CSS Tools](#html-and-css-tools)
+* [Command Line, Git, GitHub, and Markdown](#command-line-git-github-and-markdown)
+
 ## General Resources
 
 ### Tutorials and Docs
