@@ -33,6 +33,8 @@ Name | Cost
 [Codecademy](https://www.codecademy.com) | Free and Paid content
 [Udacity](https://www.udacity.com) | Free and Paid content
 
+**[&#8679; Back to Index](#index)**
+
 ### YouTube Channels
 Name | Cost
 ---- | ----
@@ -41,6 +43,8 @@ Name | Cost
 [LearnWebCode](https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ) | Free
 [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw) | Free
 [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA) | Free
+
+**[&#8679; Back to Index](#index)**
 
 ## JavaScript
 
@@ -55,6 +59,8 @@ JavaScript Best Practices tutorial by Thinkful: [Part 1](https://www.thinkful.co
 [Udacity's JavaScript and the DOM course](https://www.udacity.com/course/javascript-and-the-dom--ud117) | Free
 [JavaScript30 course](https://javascript30.com) by Wes Bos | Free
 [JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions) by sudheerj on GitHub | Free
+
+**[&#8679; Back to Index](#index)**
 
 ## HTML and CSS
 
@@ -71,6 +77,8 @@ Udacity's [Responsive Web Design Fundamentals course](https://www.udacity.com/co
 Udacity's [Responsive Images course](https://www.udacity.com/course/responsive-images--ud882) | Free
 Udacity's [Web Accessibility course](https://www.udacity.com/course/web-accessibility--ud891) | Free
 
+**[&#8679; Back to Index](#index)**
+
 ### Flexbox and CSS Grid
 
 Name | Cost
@@ -83,6 +91,8 @@ freeCodeCamp's [CSS Grid course](https://www.freecodecamp.org/learn/responsive-w
 [CSS Grid course](https://cssgrid.io) by Wes Bos | Free
 [CSS Grid cheat sheet](https://grid.malven.co) | Free
 
+**[&#8679; Back to Index](#index)**
+
 ### Sass
 
 Name | Cost
@@ -90,6 +100,8 @@ Name | Cost
 [Sass website](https://sass-lang.com) | Free
 freeCodeCamp's [SASS course](https://www.freecodecamp.org/learn/front-end-libraries/#sass) | Free
 W3Schools's [Sass Tutorial](https://www.w3schools.com/sass/default.php) | Free
+
+**[&#8679; Back to Index](#index)**
 
 ### HTML and CSS Tools
 
@@ -110,6 +122,8 @@ W3Schools's [HTML Color Picker](https://www.w3schools.com/colors/colors_picker.a
 [Color Hunt](https://colorhunt.co) | Free
 [CSS Minifier](https://cssminifier.com) | Free
 
+**[&#8679; Back to Index](#index)**
+
 ## Command Line, Git, GitHub, and Markdown
 
 Name | Cost
@@ -123,3 +137,5 @@ Udacity's [Writing READMEs course](https://www.udacity.com/course/writing-readme
 [Git cheat sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf) | Free
 W3Schools's [Git Tutorial](https://www.w3schools.com/git/default.asp) | Free
 Udacity's [Version Control with Git course](https://www.udacity.com/course/version-control-with-git--ud123) | Free
+
+**[&#8679; Back to Index](#index)**
