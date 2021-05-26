@@ -7,13 +7,13 @@ Please read the [contributing guidelines](./CONTRIBUTING.md) before submitting n
 ---
 
 ## Index
-
 * [General Resources](#general-resources)
   * [Tutorials and Docs](#tutorials-and-docs)
   * [YouTube Channels](#youtube-channels)
 * [JavaScript](#javascript)
 * [HTML and CSS](#html-and-css)
   * [Flexbox and CSS Grid](#flexbox-and-css-grid)
+  * [Bootstrap](#bootstrap)
   * [Sass](#sass)
   * [HTML and CSS Tools](#html-and-css-tools)
 * [Command Line, Git, GitHub, and Markdown](#command-line-git-github-and-markdown)
@@ -47,7 +47,6 @@ Name | Cost
 **[&#8679; Back to Index](#index)**
 
 ## JavaScript
-
 Name | Cost
 ---- | ----
 freeCodeCamp's [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures) | Free
@@ -63,7 +62,6 @@ JavaScript Best Practices tutorial by Thinkful: [Part 1](https://www.thinkful.co
 **[&#8679; Back to Index](#index)**
 
 ## HTML and CSS
-
 Name | Cost
 ---- | ----
 freeCodeCamp's [Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design) | Free
@@ -80,7 +78,6 @@ Udacity's [Web Accessibility course](https://www.udacity.com/course/web-accessib
 **[&#8679; Back to Index](#index)**
 
 ### Flexbox and CSS Grid
-
 Name | Cost
 ---- | ----
 freeCodeCamp's [CSS Flexbox course](https://www.freecodecamp.org/learn/responsive-web-design/#css-flexbox) | Free
@@ -93,8 +90,19 @@ freeCodeCamp's [CSS Grid course](https://www.freecodecamp.org/learn/responsive-w
 
 **[&#8679; Back to Index](#index)**
 
-### Sass
+### Bootstrap
+Name | Cost
+---- | ----
+[Bootstrap website](https://getbootstrap.com) | Free
+["Bootstrap 3 Vs Bootstrap 4" article](https://www.bootstrapdash.com/bootstrap-3-vs-4) | Free
+W3Schools's [Bootstrap 3 Tutorial](https://www.w3schools.com/bootstrap/default.asp) | Free
+W3Schools's [Bootstrap 4 Tutorial](https://www.w3schools.com/bootstrap4/default.asp) | Free
+[Bootstrap 4 cheat sheet](https://hackerthemes.com/bootstrap-cheatsheet) | Free
+freeCodeCamp's [Bootstrap course](https://www.freecodecamp.org/learn/front-end-libraries/#bootstrap) | Free
 
+**[&#8679; Back to Index](#index)**
+
+### Sass
 Name | Cost
 ---- | ----
 [Sass website](https://sass-lang.com) | Free
@@ -104,7 +112,6 @@ W3Schools's [Sass Tutorial](https://www.w3schools.com/sass/default.php) | Free
 **[&#8679; Back to Index](#index)**
 
 ### HTML and CSS Tools
-
 Name | Cost
 ---- | ----
 [W3C Markup Validator](https://validator.w3.org) | Free
@@ -125,7 +132,6 @@ W3Schools's [HTML Color Picker](https://www.w3schools.com/colors/colors_picker.a
 **[&#8679; Back to Index](#index)**
 
 ## Command Line, Git, GitHub, and Markdown
-
 Name | Cost
 ---- | ----
 [Command Line Power User course](https://commandlinepoweruser.com) by Wes Bos | Free
