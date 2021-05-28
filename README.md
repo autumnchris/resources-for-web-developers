@@ -11,6 +11,7 @@ Please read the [contributing guidelines](./CONTRIBUTING.md) before submitting n
   * [Tutorials and Docs](#tutorials-and-docs)
   * [YouTube Channels](#youtube-channels)
 * [JavaScript](#javascript)
+  * [Regular Expressions](#regular-expressions)
 * [HTML and CSS](#html-and-css)
   * [Flexbox and CSS Grid](#flexbox-and-css-grid)
   * [Bootstrap](#bootstrap)
@@ -58,6 +59,15 @@ JavaScript Best Practices tutorial by Thinkful: [Part 1](https://www.thinkful.co
 Udacity's [JavaScript and the DOM course](https://www.udacity.com/course/javascript-and-the-dom--ud117) | Free
 [JavaScript30 course](https://javascript30.com) by Wes Bos | Free
 [JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions) by sudheerj on GitHub | Free
+
+**[&#8679; Back to Index](#index)**
+
+### Regular Expressions
+Name | Cost
+---- | ----
+freeCodeCamp's [Regular Expressions course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions) | Free
+Codecademy's [Learn the Basics of Regular Expressions course](https://www.codecademy.com/learn/introduction-to-regular-expressions) | Free
+[Regular Expressions cheat sheet](https://cheatography.com/davechild/cheat-sheets/regular-expressions/pdf) | Free
 
 **[&#8679; Back to Index](#index)**
 
