@@ -18,6 +18,8 @@ Please read the [contributing guidelines](./CONTRIBUTING.md) before submitting n
   * [Sass](#sass)
   * [HTML and CSS Tools](#html-and-css-tools)
 * [Command Line, Git, GitHub, and Markdown](#command-line-git-github-and-markdown)
+* [React.js](#reactjs)
+  * [Redux](#redux)
 
 ## General Resources
 
@@ -153,5 +155,29 @@ Udacity's [Writing READMEs course](https://www.udacity.com/course/writing-readme
 [Git cheat sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf) | Free
 W3Schools's [Git Tutorial](https://www.w3schools.com/git/default.asp) | Free
 Udacity's [Version Control with Git course](https://www.udacity.com/course/version-control-with-git--ud123) | Free
+
+**[&#8679; Back to Index](#index)**
+
+## React.js
+Name | Cost
+---- | ----
+[React.js website](https://reactjs.org) | Free
+W3Schools's [React Tutorial](https://www.w3schools.com/react/default.asp) | Free
+Codecademy's [Learn React course](https://www.codecademy.com/learn/react-101) | Free
+freeCodeCamp's [React course](https://www.freecodecamp.org/learn/front-end-libraries/#react) | Free
+[React Router website](https://reactrouter.com) | Free
+[React Resources](https://github.com/enaqx/awesome-react) by enaqx on GitHub | Free
+[React Developer Tools extension for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en-US) | Free
+["Demystifying useEffect's clean-up function" article](https://maxrozen.com/demystifying-useeffect-cleanup-function) | Free
+[React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions) by sudheerj on GitHub | Free
+
+**[&#8679; Back to Index](#index)**
+
+### Redux
+Name | Cost
+---- | ----
+Codecademy's [Learn Redux course](https://www.codecademy.com/learn/learn-redux) | Free
+freeCodeCamp's [Redux course](https://www.freecodecamp.org/learn/front-end-libraries/#redux) | Free
+freeCodeCamp's [React and Redux course](https://www.freecodecamp.org/learn/front-end-libraries/#react-and-redux) | Free
 
 **[&#8679; Back to Index](#index)**
