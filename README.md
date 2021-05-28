@@ -58,6 +58,7 @@ W3Schools's [JavaScript Tutorial](https://www.w3schools.com/js/default.asp) | Fr
 Udacity's [Intro to JavaScript course](https://www.udacity.com/course/intro-to-javascript--ud803) | Free
 Codecademy's [Learn JavaScript course](https://www.codecademy.com/learn/introduction-to-javascript) | Free
 [JavaScript.info](https://javascript.info) | Free
+[Beginner JavaScript! course](https://beginnerjavascript.com) by Wes Bos | Paid
 JavaScript Best Practices tutorial by Thinkful: [Part 1](https://www.thinkful.com/learn/javascript-best-practices-1), [Part 2](https://www.thinkful.com/learn/javascript-best-practices-2) | Free
 Udacity's [JavaScript and the DOM course](https://www.udacity.com/course/javascript-and-the-dom--ud117) | Free
 [JavaScript30 course](https://javascript30.com) by Wes Bos | Free
@@ -70,7 +71,7 @@ Name | Cost
 ---- | ----
 freeCodeCamp's [ES6 course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6) | Free
 Udacity's [ES6 - JavaScript Improved course](https://www.udacity.com/course/es6-javascript-improved--ud356) | Free
-[ES6 for Everyone](https://es6.io) by Wes Bos | Paid
+[ES6 for Everyone course](https://es6.io) by Wes Bos | Paid
 
 **[&#8679; Back to Index](#index)**
 
