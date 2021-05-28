@@ -11,7 +11,7 @@ Please read the [contributing guidelines](./CONTRIBUTING.md) before submitting n
   * [Tutorials and Docs](#tutorials-and-docs)
   * [YouTube Channels](#youtube-channels)
 * [JavaScript](#javascript)
-  * [ES6](#es6)
+  * [ES6 Syntax](#es6-syntax)
   * [Regular Expressions](#regular-expressions)
 * [HTML and CSS](#html-and-css)
   * [Flexbox and CSS Grid](#flexbox-and-css-grid)
