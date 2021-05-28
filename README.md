@@ -11,6 +11,7 @@ Please read the [contributing guidelines](./CONTRIBUTING.md) before submitting n
   * [Tutorials and Docs](#tutorials-and-docs)
   * [YouTube Channels](#youtube-channels)
 * [JavaScript](#javascript)
+  * [ES6](#es6)
   * [Regular Expressions](#regular-expressions)
 * [HTML and CSS](#html-and-css)
   * [Flexbox and CSS Grid](#flexbox-and-css-grid)
@@ -61,6 +62,15 @@ JavaScript Best Practices tutorial by Thinkful: [Part 1](https://www.thinkful.co
 Udacity's [JavaScript and the DOM course](https://www.udacity.com/course/javascript-and-the-dom--ud117) | Free
 [JavaScript30 course](https://javascript30.com) by Wes Bos | Free
 [JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions) by sudheerj on GitHub | Free
+
+**[&#8679; Back to Index](#index)**
+
+### ES6 Syntax
+Name | Cost
+---- | ----
+freeCodeCamp's [ES6 course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6) | Free
+Udacity's [ES6 - JavaScript Improved course](https://www.udacity.com/course/es6-javascript-improved--ud356) | Free
+[ES6 for Everyone](https://es6.io) by Wes Bos | Paid
 
 **[&#8679; Back to Index](#index)**
 
