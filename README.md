@@ -18,6 +18,7 @@ Please read the [contributing guidelines](./CONTRIBUTING.md) before submitting n
   * [Bootstrap](#bootstrap)
   * [Sass](#sass)
   * [HTML and CSS Tools](#html-and-css-tools)
+* [Stock Images](#stock-images)
 * [Command Line, Git, GitHub, and Markdown](#command-line-git-github-and-markdown)
 * [React.js](#reactjs)
   * [Redux](#redux)
@@ -151,6 +152,28 @@ W3Schools's [HTML Color Picker](https://www.w3schools.com/colors/colors_picker.a
 [Palette List](https://www.palettelist.com) | Free
 [Color Hunt](https://colorhunt.co) | Free
 [CSS Minifier](https://cssminifier.com) | Free
+
+**[&#8679; Back to Index](#index)**
+
+## Stock Images
+Check whether the owner allows their images to be used for both commercial use and personal use or for just personal use only. Also, check if the owner requests credit attribution.
+
+Name | Cost
+---- | ----
+[Burst](https://burst.shopify.com) by Shopify | Free
+[Unsplash](https://unsplash.com) | Free
+[Pexels](https://www.pexels.com) | Free
+[Pixabay](https://pixabay.com) | Free
+[PicSpree](https://picspree.com/en) | Free
+[StockSnap.io](https://stocksnap.io) | Free
+[ISO Republic](https://isorepublic.com) | Free
+[reshot](https://www.reshot.com) | Free
+[Pickup Image](https://pickupimage.com) | Free
+[Foodiesfeed](https://www.foodiesfeed.com) | Free
+[CleanPNG transparent images](https://www.cleanpng.com) | Free
+[Icons8](https://icons8.com) | Free with Paid features
+[Iconfinder](https://www.iconfinder.com) | Free and Paid content
+[Noun Project](https://thenounproject.com) | Free with Paid features
 
 **[&#8679; Back to Index](#index)**
 
