@@ -22,6 +22,7 @@ Please read the [contributing guidelines](./CONTRIBUTING.md) before submitting n
 * [Command Line, Git, and Markdown](#command-line-git-and-markdown)
 * [React.js](#reactjs)
   * [Redux](#redux)
+* [D3.js](#d3js)
 
 ## General Resources
 
@@ -213,5 +214,14 @@ Name | Cost
 Codecademy's [Learn Redux course](https://www.codecademy.com/learn/learn-redux) | Free
 freeCodeCamp's [Redux course](https://www.freecodecamp.org/learn/front-end-libraries/#redux) | Free
 freeCodeCamp's [React and Redux course](https://www.freecodecamp.org/learn/front-end-libraries/#react-and-redux) | Free
+
+**[&#8679; Back to Index](#index)**
+
+## D3.js
+Name | Cost
+---- | ----
+[D3.js website](https://d3js.org) | Free
+freeCodeCamp's [Data Visualization Certification](https://www.freecodecamp.org/learn/data-visualization) | Free
+Udacity's [Data Visualization and D3.js course](https://www.udacity.com/course/data-visualization-and-d3js--ud507) | Free
 
 **[&#8679; Back to Index](#index)**
