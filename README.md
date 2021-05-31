@@ -19,7 +19,7 @@ Please read the [contributing guidelines](./CONTRIBUTING.md) before submitting n
   * [Sass](#sass)
   * [HTML and CSS Tools](#html-and-css-tools)
 * [Stock Images](#stock-images)
-* [Command Line, Git, GitHub, and Markdown](#command-line-git-github-and-markdown)
+* [Command Line, Git, and Markdown](#command-line-git-and-markdown)
 * [React.js](#reactjs)
   * [Redux](#redux)
 
@@ -177,7 +177,7 @@ Name | Cost
 
 **[&#8679; Back to Index](#index)**
 
-## Command Line, Git, GitHub, and Markdown
+## Command Line, Git, and Markdown
 Name | Cost
 ---- | ----
 [Command Line Power User course](https://commandlinepoweruser.com) by Wes Bos | Free
