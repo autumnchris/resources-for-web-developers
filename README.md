@@ -10,6 +10,7 @@ Please read the [contributing guidelines](./CONTRIBUTING.md) before submitting n
 * [General Resources](#general-resources)
   * [Tutorials and Docs](#tutorials-and-docs)
   * [YouTube Channels](#youtube-channels)
+  * [Books](#books)
 * [JavaScript](#javascript)
   * [ES6 Syntax](#es6-syntax)
   * [Regular Expressions](#regular-expressions)
@@ -49,6 +50,18 @@ Name | Cost
 [LearnWebCode](https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ) | Free
 [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw) | Free
 [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA) | Free
+
+**[&#8679; Back to Index](#index)**
+
+### Books
+Consider the probability of the information in the books provided to be out of date due to the passage of time since publishing. Technologies and practices in the software industry grow and change pretty rabidly. So keep this thought in mind and compare it with other resources you come across.
+
+Name | Cost
+---- | ----
+*[Pro Git](https://git-scm.com/book/en/v2)* by Scott Chacon and Ben Straub | Free
+*JavaScript: The Good Parts* by Douglas Crockford | Paid, but Free if available at your public or university library
+*Learning Web App Development: Build Quickly with Proven JavaScript Techniques* by Semmy Purewal | Paid, but Free if available at your public or university library
+*[Express in Action: Writing, building, and testing Node.js applications](https://www.manning.com/books/express-in-action)* by Evan M. Hahn | Free online, but print book and ebook are Paid
 
 **[&#8679; Back to Index](#index)**
 
