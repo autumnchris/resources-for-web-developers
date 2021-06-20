@@ -225,6 +225,7 @@ freeCodeCamp's [React course](https://www.freecodecamp.org/learn/front-end-libra
 ### Redux
 Name | Cost
 ---- | ----
+[Redux website](https://redux.js.org) | Free
 Codecademy's [Learn Redux course](https://www.codecademy.com/learn/learn-redux) | Free
 freeCodeCamp's [Redux course](https://www.freecodecamp.org/learn/front-end-libraries/#redux) | Free
 freeCodeCamp's [React and Redux course](https://www.freecodecamp.org/learn/front-end-libraries/#react-and-redux) | Free
