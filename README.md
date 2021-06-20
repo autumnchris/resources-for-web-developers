@@ -232,14 +232,14 @@ freeCodeCamp's [React and Redux course](https://www.freecodecamp.org/learn/front
 **[&#8679; Back to Index](#index)**
 
 ## Express.js
-Name | Description | Cost
----- | ----------- | ----
-[Express.js website](https://expressjs.com) | Online documentation for the Express.js backend framework. | Free
-[Understanding Express.js article](http://evanhahn.com/understanding-express) by Evan Hahn | ... | Free
-[Express.js cheat sheet](https://overapi.com/express) | ... | Free
-freeCodeCamp's [Basic Node and Express course](https://www.freecodecamp.org/learn/apis-and-microservices/#basic-node-and-express) | ... | Free
-freeCodeCamp's [Advanced Node and Express course](https://www.freecodecamp.org/learn/quality-assurance/#advanced-node-and-express) | ... | Free
-freeCodeCamp's [Information Security with HelmetJS course](https://www.freecodecamp.org/learn/information-security/#information-security-with-helmetjs) | ... | Free
+Name | Cost
+---- | ----
+[Express.js website](https://expressjs.com) | Free
+[Understanding Express.js article](http://evanhahn.com/understanding-express) by Evan Hahn | Free
+[Express.js cheat sheet](https://overapi.com/express) | Free
+freeCodeCamp's [Basic Node and Express course](https://www.freecodecamp.org/learn/apis-and-microservices/#basic-node-and-express) | Free
+freeCodeCamp's [Advanced Node and Express course](https://www.freecodecamp.org/learn/quality-assurance/#advanced-node-and-express) | Free
+freeCodeCamp's [Information Security with HelmetJS course](https://www.freecodecamp.org/learn/information-security/#information-security-with-helmetjs) | Free
 
 **[&#8679; Back to Index](#index)**
 
