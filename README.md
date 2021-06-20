@@ -23,6 +23,7 @@ Please read the [contributing guidelines](./CONTRIBUTING.md) before submitting n
 * [Command Line, Git, and Markdown](#command-line-git-and-markdown)
 * [React.js](#reactjs)
   * [Redux](#redux)
+* [Express.js](#expressjs)
 * [D3.js](#d3js)
 
 ## General Resources
@@ -227,6 +228,18 @@ Name | Cost
 Codecademy's [Learn Redux course](https://www.codecademy.com/learn/learn-redux) | Free
 freeCodeCamp's [Redux course](https://www.freecodecamp.org/learn/front-end-libraries/#redux) | Free
 freeCodeCamp's [React and Redux course](https://www.freecodecamp.org/learn/front-end-libraries/#react-and-redux) | Free
+
+**[&#8679; Back to Index](#index)**
+
+## Express.js
+Name | Description | Cost
+---- | ----------- | ----
+[Express.js website](https://expressjs.com) | Online documentation for the Express.js backend framework. | Free
+[Understanding Express.js article](http://evanhahn.com/understanding-express) by Evan Hahn | ... | Free
+[Express.js cheat sheet](https://overapi.com/express) | ... | Free
+freeCodeCamp's [Basic Node and Express course](https://www.freecodecamp.org/learn/apis-and-microservices/#basic-node-and-express) | ... | Free
+freeCodeCamp's [Advanced Node and Express course](https://www.freecodecamp.org/learn/quality-assurance/#advanced-node-and-express) | ... | Free
+freeCodeCamp's [Information Security with HelmetJS course](https://www.freecodecamp.org/learn/information-security/#information-security-with-helmetjs) | ... | Free
 
 **[&#8679; Back to Index](#index)**
 
