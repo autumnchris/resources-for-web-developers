@@ -19,7 +19,10 @@ Please read the [contributing guidelines](./CONTRIBUTING.md) before submitting n
   * [Bootstrap](#bootstrap)
   * [Sass](#sass)
   * [HTML and CSS Tools](#html-and-css-tools)
-* [Stock Images](#stock-images)
+* [Fonts, Icons, and Images](#fonts-icons-and-images)
+  * [Fonts](#fonts)
+  * [Icon Font Libraries](#icon-font-libraries)
+  * [Stock Images](#stock-images)
 * [Command Line, Git, and Markdown](#command-line-git-and-markdown)
 * [React.js](#reactjs)
   * [Redux](#redux)
@@ -170,7 +173,33 @@ W3Schools's [HTML Color Picker](https://www.w3schools.com/colors/colors_picker.a
 
 **[&#8679; Back to Index](#index)**
 
-## Stock Images
+## Fonts, Icons, and Images
+
+### Fonts
+Check whether the owner allows their fonts to be used for both commercial use and personal use or for personal use only. Also check if the owner requires credit attribution.
+
+Name | Cost
+---- | ----
+[Google Fonts](https://fonts.google.com) | Free
+[DaFont](https://www.dafont.com) | Free, but it's important to check the source of the font that you use to be sure
+[Fonts2u.com](https://fonts2u.com) | Free, but it's important to check the source of the font that you use to be sure
+[1001 Free Fonts](https://www.1001freefonts.com) | Free, but it's important to check the source of the font that you use to be sure
+[BeFonts](https://befonts.com) | Free, but full features and license are Paid
+
+**[&#8679; Back to Index](#index)**
+
+### Icon Font Libraries
+Name | Cost
+---- | ----
+[Font Awesome](https://fontawesome.com) | Free and Paid content
+[Material Icons](https://fonts.google.com/icons) | Free
+[Weather Icons by erikflowers](https://erikflowers.github.io/weather-icons) | Free
+[Ionicons](https://ionicons.com) | Free
+["7 popular icon libraries you can use for free" article](https://blog.logrocket.com/7-popular-icon-libraries-you-can-use-for-free) | Free
+
+**[&#8679; Back to Index](#index)**
+
+### Stock Images
 Check whether the owner allows their images to be used for both commercial use and personal use or for just personal use only. Also, check if the owner requests credit attribution.
 
 Name | Cost
