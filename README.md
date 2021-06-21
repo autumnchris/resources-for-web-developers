@@ -13,6 +13,7 @@ Please read the [contributing guidelines](./CONTRIBUTING.md) before submitting n
   * [Books](#books)
 * [JavaScript](#javascript)
   * [ES6 Syntax](#es6-syntax)
+  * [Web Requests and Asynchronous JavaScript](#web-requests-and-asynchronous-javascript)
   * [Regular Expressions](#regular-expressions)
 * [HTML and CSS](#html-and-css)
   * [Flexbox and CSS Grid](#flexbox-and-css-grid)
@@ -91,6 +92,23 @@ Name | Cost
 freeCodeCamp's [ES6 course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6) | Free
 Udacity's [ES6 - JavaScript Improved course](https://www.udacity.com/course/es6-javascript-improved--ud356) | Free
 [ES6 for Everyone course](https://es6.io) by Wes Bos | Paid
+
+**[&#8679; Back to Index](#index)**
+
+### Web Requests and Asynchronous JavaScript
+Name | Cost
+---- | ----
+[Postman](https://www.postman.com) | Free with some Paid features
+[Axios website](https://axios-http.com) | Free
+W3Schools's [JSON Tutorial](https://www.w3schools.com/js/js_json_intro.asp) | Free
+Udacity's [JavaScript Promises course](https://www.udacity.com/course/javascript-promises--ud898) | Free
+["Understanding JavaScript Promises" article](https://www.digitalocean.com/community/tutorials/understanding-javascript-promises) | Free
+[ProgrammableWeb](https://www.programmableweb.com) | Free
+[API list](https://github.com/public-apis/public-apis) by [@public-apis](https://github.com/public-apis) on GitHub | Free
+[API list](https://github.com/n0shake/Public-APIs) by [@n0shake](https://github.com/n0shake) on GitHub | Free
+[JSONView extension for Chrome](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en-US) | Free
+[HTTP Status Codes cheat sheet](http://www.cheat-sheets.org/saved-copy/http-response-codes-1.pdf) | Free
+[JSON Formatter & Validator](https://jsonformatter.org) | Free
 
 **[&#8679; Back to Index](#index)**
 
