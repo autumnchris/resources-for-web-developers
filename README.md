@@ -26,6 +26,7 @@ Please read the [contributing guidelines](./CONTRIBUTING.md) before submitting n
   * [Fonts](#fonts)
   * [Icon Font Libraries](#icon-font-libraries)
   * [Stock Images](#stock-images)
+  * [Image Editing Tools](#image-editing-tools)
 * [Command Line, Git, and Markdown](#command-line-git-and-markdown)
 * [React.js](#reactjs)
   * [Redux](#redux)
@@ -267,6 +268,18 @@ Name | Cost
 [Icons8](https://icons8.com) | Free with Paid features
 [Iconfinder](https://www.iconfinder.com) | Free and Paid content
 [Noun Project](https://thenounproject.com) | Free with Paid features
+
+**[&#8679; Back to Index](#index)**
+
+### Image Editing Tools
+Name | Cost
+---- | ----
+[cssFilters.co](https://www.cssfilters.co) | Free
+[Placeholder.com](https://placeholder.com) | Free
+[TinyPNG](https://tinypng.com) | Free with Paid features
+[Remove Image Background tool](https://www.remove.bg) | Free with Paid features
+[Photopea](https://www.photopea.com) | Free
+[Photo Image Editor Pixelstyle](https://apps.apple.com/us/app/photo-image-editor-pixelstyle/id1244649277?mt=12) | Free
 
 **[&#8679; Back to Index](#index)**
 
