@@ -10,6 +10,7 @@ Please read the [contributing guidelines](./CONTRIBUTING.md) before submitting n
 * [General Resources](#general-resources)
   * [Tutorials and Docs](#tutorials-and-docs)
   * [YouTube Channels](#youtube-channels)
+  * [Challenges and Algorithms](#challenges-and-algorithms)
   * [Books](#books)
 * [JavaScript](#javascript)
   * [ES6 Syntax](#es6-syntax)
@@ -55,6 +56,17 @@ Name | Cost
 [LearnWebCode](https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ) | Free
 [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw) | Free
 [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA) | Free
+
+**[&#8679; Back to Index](#index)**
+
+### Challenges and Algorithms
+Name | Description | Cost
+---- | ----------- | ----
+[Codewars](https://www.codewars.com) | A popular gamified site for completing community-driven challenges based on your preferred programming language and experience level.   | Free with some Paid features
+Algorithms on freeCodeCamp | A collection of JavaScript algorithms split by difficulty listed as [Basic](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting), [Intermediate](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting), [Advanced](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#javascript-algorithms-and-data-structures-projects), and [Interview Prep](https://www.freecodecamp.org/learn/coding-interview-prep/#algorithms). | Free
+[edabit](https://edabit.com/challenges) | A variety of thousands of challenges that can be filtered by difficulty and programming language. | Free
+[Project Euler](https://projecteuler.net) | Hundreds of mathematical programming challenges that can be solved in the programming language of your choice. | Free
+[Computer Science course](https://www.khanacademy.org/computing/computer-science) on Khan Academy | A course for learning sorting algorithms and cryptography challenges in JavaScript that are ideal for interview prep. | Free
 
 **[&#8679; Back to Index](#index)**
 
