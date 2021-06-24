@@ -10,6 +10,7 @@ Please read the [contributing guidelines](./CONTRIBUTING.md) before submitting n
 * [General Resources](#general-resources)
   * [Tutorials and Docs](#tutorials-and-docs)
   * [YouTube Channels](#youtube-channels)
+  * [Blogs, Chats, and Forums](#blogs-chats-and-forums)
   * [Challenges and Algorithms](#challenges-and-algorithms)
   * [Books](#books)
 * [JavaScript](#javascript)
@@ -56,6 +57,24 @@ Name | Cost
 [LearnWebCode](https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ) | Free
 [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw) | Free
 [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA) | Free
+
+**[&#8679; Back to Index](#index)**
+
+### Blogs, Chats, and Forums
+Name | Cost
+---- | ----
+[Stack Overflow](https://stackoverflow.com) | Free with Paid features
+[freeCodeCamp's Programming Tutorials blog](https://www.freecodecamp.org/news) | Free
+[freeCodeCamp's forum](https://forum.freecodecamp.org) | Free
+[CSS-Tricks](https://css-tricks.com) | Free
+[DEV Community](https://dev.to) | Free
+[The Odin Project's Discord server](https://discord.com/invite/fbFCkYabZB) | Free
+[Codecademy's forum](https://discuss.codecademy.com) | Free
+[Codecademy's Discord server](https://discord.com/invite/codecademy) | Free
+[Thinkful's blog](https://www.thinkful.com/blog) | Free
+[Web Dev Simplified's blog](https://blog.webdevsimplified.com) | Free
+[Web Dev Simplified's Discord server](https://discord.com/invite/7StTjnR) | Free
+[Traversy Media's Discord server](https://discord.com/invite/s2ZBTbY) | Free
 
 **[&#8679; Back to Index](#index)**
 
