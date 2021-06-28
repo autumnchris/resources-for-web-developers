@@ -30,7 +30,8 @@ Please read the [contributing guidelines](./CONTRIBUTING.md) before submitting n
 * [Command Line, Git, and Markdown](#command-line-git-and-markdown)
 * [React.js](#reactjs)
   * [Redux](#redux)
-* [Express.js](#expressjs)
+* [Node.js](#nodejs)
+  * [Express.js](#expressjs)
 * [D3.js](#d3js)
 
 ## General Resources
@@ -325,7 +326,18 @@ freeCodeCamp's [React and Redux course](https://www.freecodecamp.org/learn/front
 
 **[&#8679; Back to Index](#index)**
 
-## Express.js
+## Node.js
+Name | Cost
+---- | ----
+[Node.js website](https://nodejs.org/en) | Free
+[NPM website](https://www.npmjs.com) | Free with some Paid features
+freeCodeCamp's [Managing Packages with NPM course](https://www.freecodecamp.org/learn/apis-and-microservices/#managing-packages-with-npm) | Free
+W3Schools's [Node.js Tutorial](https://www.w3schools.com/nodejs/default.asp) | Free
+[nodemon website](https://nodemon.io) | Free
+
+**[&#8679; Back to Index](#index)**
+
+### Express.js
 Name | Cost
 ---- | ----
 [Express.js website](https://expressjs.com) | Free
