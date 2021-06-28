@@ -305,10 +305,11 @@ Name | Cost
 W3Schools's [React Tutorial](https://www.w3schools.com/react/default.asp) | Free
 Codecademy's [Learn React course](https://www.codecademy.com/learn/react-101) | Free
 freeCodeCamp's [React course](https://www.freecodecamp.org/learn/front-end-libraries/#react) | Free
-[React Router website](https://reactrouter.com) | Free
 [React Resources](https://github.com/enaqx/awesome-react) by [@enaqx](https://github.com/enaqx) on GitHub | Free
 [React Developer Tools extension for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en-US) | Free
 ["Demystifying useEffect's clean-up function" article](https://maxrozen.com/demystifying-useeffect-cleanup-function) | Free
+[React Router website](https://reactrouter.com) | Free
+Codecademy's [Learn React Router course](https://www.codecademy.com/learn/learn-react-router) | Free
 [React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions) by [@sudheerj](https://github.com/sudheerj) on GitHub | Free
 
 **[&#8679; Back to Index](#index)**
