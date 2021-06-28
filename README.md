@@ -113,6 +113,7 @@ Codecademy's [Learn JavaScript course](https://www.codecademy.com/learn/introduc
 [Beginner JavaScript! course](https://beginnerjavascript.com) by Wes Bos | Paid
 JavaScript Best Practices tutorial by Thinkful: [Part 1](https://www.thinkful.com/learn/javascript-best-practices-1), [Part 2](https://www.thinkful.com/learn/javascript-best-practices-2) | Free
 Udacity's [JavaScript and the DOM course](https://www.udacity.com/course/javascript-and-the-dom--ud117) | Free
+Udacity's [Object-Oriented JavaScript course](https://www.udacity.com/course/object-oriented-javascript--ud711) | Free
 [JavaScript30 course](https://javascript30.com) by Wes Bos | Free
 [JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions) by [@sudheerj](https://github.com/sudheerj) on GitHub | Free
 
