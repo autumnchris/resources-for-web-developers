@@ -32,6 +32,7 @@ Please read the [contributing guidelines](./CONTRIBUTING.md) before submitting n
   * [Redux](#redux)
 * [Node.js](#nodejs)
   * [Express.js](#expressjs)
+  * [JavaScript Testing](#javascript-testing)
 * [D3.js](#d3js)
 
 ## General Resources
@@ -347,6 +348,17 @@ Name | Cost
 freeCodeCamp's [Basic Node and Express course](https://www.freecodecamp.org/learn/apis-and-microservices/#basic-node-and-express) | Free
 freeCodeCamp's [Advanced Node and Express course](https://www.freecodecamp.org/learn/quality-assurance/#advanced-node-and-express) | Free
 freeCodeCamp's [Information Security with HelmetJS course](https://www.freecodecamp.org/learn/information-security/#information-security-with-helmetjs) | Free
+
+**[&#8679; Back to Index](#index)**
+
+### JavaScript Testing
+Name | Cost
+---- | ----
+[Mocha.js website](https://mochajs.org) | Free
+[Chai.js website](https://www.chaijs.com) | Free
+[Jasmine website](https://jasmine.github.io) | Free
+freeCodeCamp's [Quality Assurance and Testing with Chai course](https://www.freecodecamp.org/learn/quality-assurance/#quality-assurance-and-testing-with-chai) | Free
+Udacity's [JavaScript Testing course](https://www.udacity.com/course/javascript-testing--ud549) | Free
 
 **[&#8679; Back to Index](#index)**
 
