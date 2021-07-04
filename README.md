@@ -84,7 +84,7 @@ Name | Cost
 ### Challenges and Algorithms
 Name | Description | Cost
 ---- | ----------- | ----
-[Codewars](https://www.codewars.com) | A popular gamified site for completing community-driven challenges based on your preferred programming language and experience level.   | Free with some Paid features
+[Codewars](https://www.codewars.com) | A popular gamified site for completing community-driven challenges customized by your preferred programming languages and experience level.   | Free with some Paid features
 Algorithms on freeCodeCamp | A collection of JavaScript algorithms split by difficulty listed as [Basic](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting), [Intermediate](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting), [Advanced](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#javascript-algorithms-and-data-structures-projects), and [Interview Prep](https://www.freecodecamp.org/learn/coding-interview-prep/#algorithms). | Free
 [edabit](https://edabit.com/challenges) | A variety of thousands of challenges that can be filtered by difficulty and programming language. | Free
 [Project Euler](https://projecteuler.net) | Hundreds of mathematical programming challenges that can be solved in the programming language of your choice. | Free
@@ -93,7 +93,7 @@ Algorithms on freeCodeCamp | A collection of JavaScript algorithms split by diff
 **[&#8679; Back to Index](#index)**
 
 ### Books
-Consider the probability of the information in the books provided to be out of date due to the passage of time since publishing. Technologies and practices in the software industry grow and change pretty rabidly. So keep this thought in mind and compare it with other resources you come across.
+Consider the probability of the information in the books provided to be out of date due to the passage of time since publishing. Technologies and practices in the software industry grow and change pretty rapidly. So keep this thought in mind and compare it with other resources you come across.
 
 Name | Cost
 ---- | ----
@@ -230,7 +230,7 @@ W3Schools's [HTML Color Picker](https://www.w3schools.com/colors/colors_picker.a
 ## Fonts, Icons, and Images
 
 ### Fonts
-Check whether the owner allows their fonts to be used for both commercial use and personal use or for personal use only. Also check if the owner requires credit attribution.
+Check whether the owner allows their fonts to be used for both commercial use and personal use or for just personal use only. Also check if the owner requires credit attribution.
 
 Name | Cost
 ---- | ----
