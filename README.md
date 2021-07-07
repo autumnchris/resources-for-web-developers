@@ -33,7 +33,7 @@ Please read the [contributing guidelines](./CONTRIBUTING.md) before submitting n
 * [Node.js](#nodejs)
   * [Express.js](#expressjs)
   * [JavaScript Testing](#javascript-testing)
-* [D3.js](#d3js)
+* [Other JavaScript Libraries](#other-javascript-libraries)
 
 ## General Resources
 
@@ -367,11 +367,21 @@ Udacity's [JavaScript Testing course](https://www.udacity.com/course/javascript-
 
 **[&#8679; Back to Index](#index)**
 
-## D3.js
+## Other JavaScript Libraries
 Name | Cost
 ---- | ----
 [D3.js website](https://d3js.org) | Free
 freeCodeCamp's [Data Visualization Certification](https://www.freecodecamp.org/learn/data-visualization) | Free
 Udacity's [Data Visualization and D3.js course](https://www.udacity.com/course/data-visualization-and-d3js--ud507) | Free
+[Chart.js website](https://www.chartjs.org) | Free
+[Moment.js website](https://momentjs.com) | Free
+[jQuery website](https://jquery.com) | Free
+W3Schools's [jQuery Tutorial](https://www.w3schools.com/jquery/default.asp) | Free
+[p5.js website](https://p5js.org) | Free
+Codecademy's [Learn p5.js course](https://www.codecademy.com/learn/learn-p5js) | Free
+[Webpack.js website](https://webpack.js.org) | Free
+[Babel.js website](https://babeljs.io) | Free
+[TensorFlow website](https://www.tensorflow.org) | Free
+[Brain.js website](https://brain.js.org) | Free
 
 **[&#8679; Back to Index](#index)**
