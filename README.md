@@ -179,10 +179,10 @@ Name | Cost
 freeCodeCamp's [CSS Flexbox course](https://www.freecodecamp.org/learn/responsive-web-design/#css-flexbox) | Free
 [What the Flexbox?! course](https://flexbox.io) by Wes Bos | Free
 [Flexbox Playground](https://the-echoplex.net/flexyboxes) | Free
-[Flexbox cheat sheet](https://flexbox.malven.co) | Free
+[Flexbox cheat sheet](https://yoksel.github.io/flex-cheatsheet) | Free
 freeCodeCamp's [CSS Grid course](https://www.freecodecamp.org/learn/responsive-web-design/#css-grid) | Free
 [CSS Grid course](https://cssgrid.io) by Wes Bos | Free
-[CSS Grid cheat sheet](https://grid.malven.co) | Free
+[CSS Grid cheat sheet](https://yoksel.github.io/grid-cheatsheet) | Free
 
 **[&#8679; Back to Index](#index)**
 
