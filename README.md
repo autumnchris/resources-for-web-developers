@@ -346,8 +346,13 @@ Name | Cost
 [Understanding Express.js article](http://evanhahn.com/understanding-express) by Evan Hahn | Free
 [Express.js cheat sheet](https://overapi.com/express) | Free
 freeCodeCamp's [Basic Node and Express course](https://www.freecodecamp.org/learn/apis-and-microservices/#basic-node-and-express) | Free
+[Pug website](https://pugjs.org) | Free
+[EJS website](https://ejs.co) | Free
+[Passport.js website](http://www.passportjs.org) | Free
 freeCodeCamp's [Advanced Node and Express course](https://www.freecodecamp.org/learn/quality-assurance/#advanced-node-and-express) | Free
+[Helmet.js website](https://helmetjs.github.io) | Free
 freeCodeCamp's [Information Security with HelmetJS course](https://www.freecodecamp.org/learn/information-security/#information-security-with-helmetjs) | Free
+[Socket.IO website](https://socket.io) | Free
 
 **[&#8679; Back to Index](#index)**
 
