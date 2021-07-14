@@ -86,7 +86,6 @@ Name | Description | Cost
 ---- | ----------- | ----
 [Codewars](https://www.codewars.com) | A popular gamified site for completing community-driven challenges customized by your preferred programming languages and experience level.   | Free with some Paid features
 Algorithms on freeCodeCamp | A collection of JavaScript algorithms split by difficulty listed as [Basic](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting), [Intermediate](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting), [Advanced](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#javascript-algorithms-and-data-structures-projects), and [Interview Prep](https://www.freecodecamp.org/learn/coding-interview-prep/#algorithms). | Free
-[edabit](https://edabit.com/challenges) | A variety of thousands of challenges that can be filtered by difficulty and programming language. | Free
 [Project Euler](https://projecteuler.net) | Hundreds of mathematical programming challenges that can be solved in the programming language of your choice. | Free
 [Computer Science course](https://www.khanacademy.org/computing/computer-science) on Khan Academy | A course for learning sorting algorithms and cryptography challenges in JavaScript that are ideal for interview prep. | Free
 
@@ -137,7 +136,6 @@ Name | Cost
 [Axios website](https://axios-http.com) | Free
 W3Schools's [JSON Tutorial](https://www.w3schools.com/js/js_json_intro.asp) | Free
 Udacity's [JavaScript Promises course](https://www.udacity.com/course/javascript-promises--ud898) | Free
-["Understanding JavaScript Promises" article](https://www.digitalocean.com/community/tutorials/understanding-javascript-promises) | Free
 [ProgrammableWeb](https://www.programmableweb.com) | Free
 [API list](https://github.com/public-apis/public-apis) by [@public-apis](https://github.com/public-apis) on GitHub | Free
 [API list](https://github.com/n0shake/Public-APIs) by [@n0shake](https://github.com/n0shake) on GitHub | Free
@@ -190,7 +188,6 @@ freeCodeCamp's [CSS Grid course](https://www.freecodecamp.org/learn/responsive-w
 Name | Cost
 ---- | ----
 [Bootstrap website](https://getbootstrap.com) | Free
-["Bootstrap 3 Vs Bootstrap 4" article](https://www.bootstrapdash.com/bootstrap-3-vs-4) | Free
 W3Schools's [Bootstrap 3 Tutorial](https://www.w3schools.com/bootstrap/default.asp) | Free
 W3Schools's [Bootstrap 4 Tutorial](https://www.w3schools.com/bootstrap4/default.asp) | Free
 [Bootstrap 4 cheat sheet](https://hackerthemes.com/bootstrap-cheatsheet) | Free
@@ -249,7 +246,6 @@ Name | Cost
 [Material Icons](https://fonts.google.com/icons) | Free
 [Weather Icons by erikflowers](https://erikflowers.github.io/weather-icons) | Free
 [Ionicons](https://ionicons.com) | Free
-["7 popular icon libraries you can use for free" article](https://blog.logrocket.com/7-popular-icon-libraries-you-can-use-for-free) | Free
 
 **[&#8679; Back to Index](#index)**
 
@@ -311,7 +307,6 @@ Codecademy's [Learn React course](https://www.codecademy.com/learn/react-101) | 
 freeCodeCamp's [React course](https://www.freecodecamp.org/learn/front-end-libraries/#react) | Free
 [React Resources](https://github.com/enaqx/awesome-react) by [@enaqx](https://github.com/enaqx) on GitHub | Free
 [React Developer Tools extension for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en-US) | Free
-["Demystifying useEffect's clean-up function" article](https://maxrozen.com/demystifying-useeffect-cleanup-function) | Free
 [React Router website](https://reactrouter.com) | Free
 Codecademy's [Learn React Router course](https://www.codecademy.com/learn/learn-react-router) | Free
 [React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions) by [@sudheerj](https://github.com/sudheerj) on GitHub | Free
