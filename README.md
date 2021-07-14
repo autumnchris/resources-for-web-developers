@@ -338,7 +338,7 @@ W3Schools's [Node.js Tutorial](https://www.w3schools.com/nodejs/default.asp) | F
 Name | Cost
 ---- | ----
 [Express.js website](https://expressjs.com) | Free
-[Understanding Express.js article](http://evanhahn.com/understanding-express) by Evan Hahn | Free
+["Understanding Express.js" article](http://evanhahn.com/understanding-express) by Evan Hahn | Free
 [Express.js cheat sheet](https://overapi.com/express) | Free
 freeCodeCamp's [Basic Node and Express course](https://www.freecodecamp.org/learn/apis-and-microservices/#basic-node-and-express) | Free
 [Pug website](https://pugjs.org) | Free
