@@ -380,6 +380,11 @@ Udacity's [Data Visualization and D3.js course](https://www.udacity.com/course/d
 Codecademy's [Learn D3 course](https://www.codecademy.com/learn/learn-d3) | Paid
 [Chart.js website](https://www.chartjs.org) | Free
 [Moment.js website](https://momentjs.com) | Free
+[Vue.js website](https://vuejs.org) | Free
+[Angular website](https://angular.io) | Free
+[AngularJS website](https://angularjs.org) | Free
+W3Schools's [AngularJS Tutorial](https://www.w3schools.com/angular/default.asp) | Free
+Codecademy's [Learn AngularJS 1.X course](https://www.codecademy.com/learn/learn-angularjs) | Free
 [jQuery website](https://jquery.com) | Free
 W3Schools's [jQuery Tutorial](https://www.w3schools.com/jquery/default.asp) | Free
 [p5.js website](https://p5js.org) | Free
