@@ -139,6 +139,7 @@ Name | Cost
 [Axios website](https://axios-http.com) | Free
 W3Schools's [JSON Tutorial](https://www.w3schools.com/js/js_json_intro.asp) | Free
 Udacity's [JavaScript Promises course](https://www.udacity.com/course/javascript-promises--ud898) | Free
+Codecademy's [Learn Asynchronous JavaScript course](https://www.codecademy.com/learn/asynchronous-javascript) | Paid
 [ProgrammableWeb](https://www.programmableweb.com) | Free
 [API list](https://github.com/public-apis/public-apis) by [@public-apis](https://github.com/public-apis) on GitHub | Free
 [API list](https://github.com/n0shake/Public-APIs) by [@n0shake](https://github.com/n0shake) on GitHub | Free
@@ -348,6 +349,7 @@ freeCodeCamp's [Basic Node and Express course](https://www.freecodecamp.org/lear
 [EJS website](https://ejs.co) | Free
 [Passport.js website](http://www.passportjs.org) | Free
 freeCodeCamp's [Advanced Node and Express course](https://www.freecodecamp.org/learn/quality-assurance/#advanced-node-and-express) | Free
+Codecademy's [User Authentication & Authorization in Express course](https://www.codecademy.com/learn/user-authentication-authorization-express) | Free
 [Helmet.js website](https://helmetjs.github.io) | Free
 freeCodeCamp's [Information Security with HelmetJS course](https://www.freecodecamp.org/learn/information-security/#information-security-with-helmetjs) | Free
 [Socket.IO website](https://socket.io) | Free
@@ -362,6 +364,10 @@ Name | Cost
 [Jasmine website](https://jasmine.github.io) | Free
 freeCodeCamp's [Quality Assurance and Testing with Chai course](https://www.freecodecamp.org/learn/quality-assurance/#quality-assurance-and-testing-with-chai) | Free
 Udacity's [JavaScript Testing course](https://www.udacity.com/course/javascript-testing--ud549) | Free
+[Jest website](https://jestjs.io) | Free
+Codecademy's [Learn React Testing course](https://www.codecademy.com/learn/learn-react-testing) | Free
+Codecademy's [Learn JavaScript Unit Testing course](https://www.codecademy.com/learn/learn-javascript-unit-testing) | Paid
+Codecademy's [Learn Testing for Web Development course](https://www.codecademy.com/learn/learn-testing-for-web-development) | Paid
 
 **[&#8679; Back to Index](#index)**
 
@@ -371,6 +377,7 @@ Name | Cost
 [D3.js website](https://d3js.org) | Free
 freeCodeCamp's [Data Visualization Certification](https://www.freecodecamp.org/learn/data-visualization) | Free
 Udacity's [Data Visualization and D3.js course](https://www.udacity.com/course/data-visualization-and-d3js--ud507) | Free
+Codecademy's [Learn D3 course](https://www.codecademy.com/learn/learn-d3) | Paid
 [Chart.js website](https://www.chartjs.org) | Free
 [Moment.js website](https://momentjs.com) | Free
 [jQuery website](https://jquery.com) | Free
