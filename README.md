@@ -59,6 +59,9 @@ Name | Cost
 [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA) | Free
 [LearnWebCode](https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ) | Free
 [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw) | Free
+[CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A) | Free
+[Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw) | Free
+[The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) | Free
 [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA) | Free
 
 **[&#8679; Back to Index](#index)**
