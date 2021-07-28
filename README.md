@@ -49,6 +49,7 @@ Name | Cost
 [LinkedIn Learning](https://www.linkedin.com/learning) | Paid, but Free with some public library and university library memberships
 [Codecademy](https://www.codecademy.com) | Free and Paid content
 [Udacity](https://www.udacity.com) | Free and Paid content
+[Sololearn](https://www.sololearn.com) | Free with Paid features
 
 **[&#8679; Back to Index](#index)**
 
@@ -115,6 +116,7 @@ W3Schools's [JavaScript Tutorial](https://www.w3schools.com/js/default.asp) | Fr
 Udacity's [Intro to JavaScript course](https://www.udacity.com/course/intro-to-javascript--ud803) | Free
 Codecademy's [Learn JavaScript course](https://www.codecademy.com/learn/introduction-to-javascript) | Free
 [JavaScript.info](https://javascript.info) | Free
+Sololearn's [JavaScript course](https://www.sololearn.com/learning/1024) | Free with some Paid features
 [Beginner JavaScript! course](https://beginnerjavascript.com) by Wes Bos | Paid
 JavaScript Best Practices tutorial by Thinkful: [Part 1](https://www.thinkful.com/learn/javascript-best-practices-1), [Part 2](https://www.thinkful.com/learn/javascript-best-practices-2) | Free
 Udacity's [JavaScript and the DOM course](https://www.udacity.com/course/javascript-and-the-dom--ud117) | Free
@@ -170,8 +172,11 @@ Udacity's [Intro to HTML and CSS course](https://www.udacity.com/course/intro-to
 Codecademy's [Learn HTML course](https://www.codecademy.com/learn/learn-html) | Free
 Codecademy's [Learn CSS course](https://www.codecademy.com/learn/learn-css) | Free
 Codecademy's [Learn Intermediate CSS course](https://www.codecademy.com/learn/learn-intermediate-css) | Free
+Sololearn's [HTML Course](https://www.sololearn.com/learning/1014) | Free with some Paid features
+Sololearn's [CSS Course](https://www.sololearn.com/learning/1023) | Free
 Udacity's [Responsive Web Design Fundamentals course](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) | Free
 Udacity's [Responsive Images course](https://www.udacity.com/course/responsive-images--ud882) | Free
+Sololearn's [Responsive Web Design course](https://www.sololearn.com/learning/1162) | Free
 Udacity's [Web Accessibility course](https://www.udacity.com/course/web-accessibility--ud891) | Free
 
 **[&#8679; Back to Index](#index)**
@@ -309,6 +314,7 @@ Name | Cost
 [React.js website](https://reactjs.org) | Free
 W3Schools's [React Tutorial](https://www.w3schools.com/react/default.asp) | Free
 Codecademy's [Learn React course](https://www.codecademy.com/learn/react-101) | Free
+Sololearn's [React + Redux course](https://www.sololearn.com/learning/1097) | Free
 freeCodeCamp's [React course](https://www.freecodecamp.org/learn/front-end-libraries/#react) | Free
 [React Resources](https://github.com/enaqx/awesome-react) by [@enaqx](https://github.com/enaqx) on GitHub | Free
 [React Developer Tools extension for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en-US) | Free
@@ -389,6 +395,7 @@ W3Schools's [AngularJS Tutorial](https://www.w3schools.com/angular/default.asp) 
 Codecademy's [Learn AngularJS 1.X course](https://www.codecademy.com/learn/learn-angularjs) | Free
 [jQuery website](https://jquery.com) | Free
 W3Schools's [jQuery Tutorial](https://www.w3schools.com/jquery/default.asp) | Free
+Sololearn's [jQuery course](https://www.sololearn.com/learning/1082) | Free
 [p5.js website](https://p5js.org) | Free
 Codecademy's [Learn p5.js course](https://www.codecademy.com/learn/learn-p5js) | Free
 [Webpack.js website](https://webpack.js.org) | Free
