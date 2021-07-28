@@ -334,6 +334,7 @@ Name | Cost
 [Node.js website](https://nodejs.org/en) | Free
 [NPM website](https://www.npmjs.com) | Free with some Paid features
 freeCodeCamp's [Managing Packages with NPM course](https://www.freecodecamp.org/learn/apis-and-microservices/#managing-packages-with-npm) | Free
+Codecademy's [Learn Node.js course](https://www.codecademy.com/learn/learn-node-js) | Free
 W3Schools's [Node.js Tutorial](https://www.w3schools.com/nodejs/default.asp) | Free
 [nodemon website](https://nodemon.io) | Free
 
