@@ -103,6 +103,7 @@ Name | Cost
 *Learning Web App Development: Build Quickly with Proven JavaScript Techniques* by Semmy Purewal | Paid, but Free if available at your public or university library
 *JavaScript: The Good Parts* by Douglas Crockford | Paid, but Free if available at your public or university library
 *[Think Like a Programmer: An Introduction to Creative Problem Solving](http://vantonspraul.com/TLAP)* by V. Anton Spraul | Paid, but Free if available at your public or university library
+*[Functional Design Patterns for Express.js: A step-by-step guide to building elegant, maintainable Node.js backends.](https://jonathanleemartin.com/books)* by Jonathan Lee Martin | Paid
 *[Express in Action: Writing, building, and testing Node.js applications](https://www.manning.com/books/express-in-action)* by Evan M. Hahn | Free online, but print book and ebook are Paid
 *[Pro Git](https://git-scm.com/book/en/v2)* by Scott Chacon and Ben Straub | Free
 
@@ -114,6 +115,8 @@ Name | Cost
 freeCodeCamp's [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures) | Free
 W3Schools's [JavaScript Tutorial](https://www.w3schools.com/js/default.asp) | Free
 Udacity's [Intro to JavaScript course](https://www.udacity.com/course/intro-to-javascript--ud803) | Free
+Scrimba.com's [Introduction to JavaScript course](https://scrimba.com/learn/introductiontojavascript) | Free
+Scrimba.com's [Learn JavaScript for free course](https://scrimba.com/learn/learnjavascript) | Free
 Codecademy's [Learn JavaScript course](https://www.codecademy.com/learn/introduction-to-javascript) | Free
 [JavaScript.info](https://javascript.info) | Free
 Sololearn's [JavaScript course](https://www.sololearn.com/learning/1024) | Free with some Paid features
@@ -130,6 +133,7 @@ Udacity's [Object-Oriented JavaScript course](https://www.udacity.com/course/obj
 Name | Cost
 ---- | ----
 freeCodeCamp's [ES6 course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6) | Free
+Scrimba.com's [Introduction to ES6+ course](https://scrimba.com/learn/introtoes6) | Free
 Udacity's [ES6 - JavaScript Improved course](https://www.udacity.com/course/es6-javascript-improved--ud356) | Free
 [ES6 for Everyone course](https://es6.io) by Wes Bos | Paid
 
@@ -168,16 +172,22 @@ Name | Cost
 freeCodeCamp's [Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design) | Free
 W3Schools's [HTML Tutorial](https://www.w3schools.com/html/default.asp) | Free
 W3Schools's [CSS Tutorial](https://www.w3schools.com/css/default.asp) | Free
+Scrimba.com's [HTML & CSS Crash Course](https://scrimba.com/learn/htmlcss) | Free
+Scrimba.com's [Introduction to HTML course](https://scrimba.com/learn/html) | Free
+Scrimba.com's [Introduction to CSS course](https://scrimba.com/learn/introtocss) | Free
 Udacity's [Intro to HTML and CSS course](https://www.udacity.com/course/intro-to-html-and-css--ud001) | Free
 Codecademy's [Learn HTML course](https://www.codecademy.com/learn/learn-html) | Free
 Codecademy's [Learn CSS course](https://www.codecademy.com/learn/learn-css) | Free
 Codecademy's [Learn Intermediate CSS course](https://www.codecademy.com/learn/learn-intermediate-css) | Free
-Sololearn's [HTML Course](https://www.sololearn.com/learning/1014) | Free with some Paid features
-Sololearn's [CSS Course](https://www.sololearn.com/learning/1023) | Free
+Sololearn's [HTML course](https://www.sololearn.com/learning/1014) | Free with some Paid features
+Sololearn's [CSS course](https://www.sololearn.com/learning/1023) | Free
 Udacity's [Responsive Web Design Fundamentals course](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) | Free
 Udacity's [Responsive Images course](https://www.udacity.com/course/responsive-images--ud882) | Free
 Sololearn's [Responsive Web Design course](https://www.sololearn.com/learning/1162) | Free
+W3Schools's [Accessibility Tutorial](https://www.w3schools.com/accessibility/index.php) | Free
 Udacity's [Web Accessibility course](https://www.udacity.com/course/web-accessibility--ud891) | Free
+Scrimba.com's [Learn UI Design Fundamentals course](https://scrimba.com/learn/design) | Free
+Scrimba.com's [Learn CSS Variables for free course](https://scrimba.com/learn/cssvariables) | Free
 
 **[&#8679; Back to Index](#index)**
 
@@ -185,10 +195,12 @@ Udacity's [Web Accessibility course](https://www.udacity.com/course/web-accessib
 Name | Cost
 ---- | ----
 freeCodeCamp's [CSS Flexbox course](https://www.freecodecamp.org/learn/responsive-web-design/#css-flexbox) | Free
+Scrimba.com's [Learn Flexbox for free course](https://scrimba.com/learn/flexbox) | Free
 [What the Flexbox?! course](https://flexbox.io) by Wes Bos | Free
 [Flexbox Playground](https://the-echoplex.net/flexyboxes) | Free
 [Flexbox cheat sheet](https://yoksel.github.io/flex-cheatsheet) | Free
 freeCodeCamp's [CSS Grid course](https://www.freecodecamp.org/learn/responsive-web-design/#css-grid) | Free
+Scrimba.com's [Learn CSS Grid for free course](https://scrimba.com/learn/cssgrid) | Free
 [CSS Grid course](https://cssgrid.io) by Wes Bos | Free
 [CSS Grid cheat sheet](https://yoksel.github.io/grid-cheatsheet) | Free
 
@@ -201,6 +213,7 @@ Name | Cost
 W3Schools's [Bootstrap 3 Tutorial](https://www.w3schools.com/bootstrap/default.asp) | Free
 W3Schools's [Bootstrap 4 Tutorial](https://www.w3schools.com/bootstrap4/default.asp) | Free
 [Bootstrap 4 cheat sheet](https://hackerthemes.com/bootstrap-cheatsheet) | Free
+Scrimba.com's [Learn Bootstrap 4 for free course](https://scrimba.com/learn/bootstrap4) | Free
 freeCodeCamp's [Bootstrap course](https://www.freecodecamp.org/learn/front-end-libraries/#bootstrap) | Free
 
 **[&#8679; Back to Index](#index)**
@@ -314,6 +327,7 @@ Name | Cost
 [React.js website](https://reactjs.org) | Free
 W3Schools's [React Tutorial](https://www.w3schools.com/react/default.asp) | Free
 Codecademy's [Learn React course](https://www.codecademy.com/learn/react-101) | Free
+Scrimba.com's [Learn React for free course](https://scrimba.com/learn/learnreact) | Free
 Sololearn's [React + Redux course](https://www.sololearn.com/learning/1097) | Free
 freeCodeCamp's [React course](https://www.freecodecamp.org/learn/front-end-libraries/#react) | Free
 [React Resources](https://github.com/enaqx/awesome-react) by [@enaqx](https://github.com/enaqx) on GitHub | Free
@@ -389,7 +403,9 @@ Codecademy's [Learn D3 course](https://www.codecademy.com/learn/learn-d3) | Paid
 [Chart.js website](https://www.chartjs.org) | Free
 [Moment.js website](https://momentjs.com) | Free
 [Vue.js website](https://vuejs.org) | Free
+Scrimba.com's [Learn Vue.js for free course](https://scrimba.com/learn/learnvue) | Free
 [Angular website](https://angular.io) | Free
+Scrimba.com's [Build your first Angular app course](https://scrimba.com/learn/yourfirstangularapp) | Free
 [AngularJS website](https://angularjs.org) | Free
 W3Schools's [AngularJS Tutorial](https://www.w3schools.com/angular/default.asp) | Free
 Codecademy's [Learn AngularJS 1.X course](https://www.codecademy.com/learn/learn-angularjs) | Free
@@ -401,6 +417,8 @@ Codecademy's [Learn p5.js course](https://www.codecademy.com/learn/learn-p5js) |
 [Webpack.js website](https://webpack.js.org) | Free
 [Babel.js website](https://babeljs.io) | Free
 [TensorFlow website](https://www.tensorflow.org) | Free
+W3Schools's [TensorFlow Tutorial](https://www.w3schools.com/ai/ai_tensorflow_intro.asp) | Free
 [Brain.js website](https://brain.js.org) | Free
+Scrimba.com's [Neural networks in JavaScript course](https://scrimba.com/learn/neuralnetworks) | Free
 
 **[&#8679; Back to Index](#index)**
