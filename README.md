@@ -13,6 +13,7 @@ Please read the [contributing guidelines](./CONTRIBUTING.md) before submitting n
   * [Blogs, Chats, and Forums](#blogs-chats-and-forums)
   * [Challenges and Algorithms](#challenges-and-algorithms)
   * [Books](#books)
+  * [General Links and Tools](#general-links-and-tools)
 * [JavaScript](#javascript)
   * [ES6 Syntax](#es6-syntax)
   * [Web Requests and Asynchronous JavaScript](#web-requests-and-asynchronous-javascript)
@@ -106,6 +107,22 @@ Name | Cost
 *[Functional Design Patterns for Express.js: A step-by-step guide to building elegant, maintainable Node.js backends.](https://jonathanleemartin.com/books)* by Jonathan Lee Martin | Paid
 *[Express in Action: Writing, building, and testing Node.js applications](https://www.manning.com/books/express-in-action)* by Evan M. Hahn | Free online, but print book and ebook are Paid
 *[Pro Git](https://git-scm.com/book/en/v2)* by Scott Chacon and Ben Straub | Free
+
+**[&#8679; Back to Index](#index)**
+
+### General Links and Tools
+Name | Cost
+---- | ----
+[Visual Studio Code](https://code.visualstudio.com) | Free
+[Atom](https://atom.io) | Free
+[Replit](https://replit.com) | Free with some Paid features
+[Code Playground](https://www.sololearn.com/codes) on Sololearn | Free
+[CodePen](https://codepen.io) | Free with some Paid features
+[Scratch](https://scratch.mit.edu) | Free
+[Diffchecker](https://www.diffchecker.com) | Free with some Paid features
+[Can I use...](https://caniuse.com) | Free
+[Lorem Ipsum Generator](https://www.lipsum.com) | Free
+["How to Use Google to Solve Your Programming Questions" article](https://codinginflow.com/google-programming-questions) | Free
 
 **[&#8679; Back to Index](#index)**
 
