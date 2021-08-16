@@ -122,6 +122,7 @@ Codecademy's [Learn JavaScript course](https://www.codecademy.com/learn/introduc
 Sololearn's [JavaScript course](https://www.sololearn.com/learning/1024) | Free with some Paid features
 [Beginner JavaScript! course](https://beginnerjavascript.com) by Wes Bos | Paid
 JavaScript Best Practices tutorial by Thinkful: [Part 1](https://www.thinkful.com/learn/javascript-best-practices-1), [Part 2](https://www.thinkful.com/learn/javascript-best-practices-2) | Free
+[JavaScript Formatter](https://jsonformatter.org/jsbeautifier) | Free
 Udacity's [JavaScript and the DOM course](https://www.udacity.com/course/javascript-and-the-dom--ud117) | Free
 Udacity's [Object-Oriented JavaScript course](https://www.udacity.com/course/object-oriented-javascript--ud711) | Free
 [JavaScript30 course](https://javascript30.com) by Wes Bos | Free
@@ -152,7 +153,9 @@ Codecademy's [Learn Asynchronous JavaScript course](https://www.codecademy.com/l
 [API list](https://github.com/n0shake/Public-APIs) by [@n0shake](https://github.com/n0shake) on GitHub | Free
 [JSONView extension for Chrome](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en-US) | Free
 [HTTP Status Codes cheat sheet](http://www.cheat-sheets.org/saved-copy/http-response-codes-1.pdf) | Free
-[JSON Formatter & Validator](https://jsonformatter.org) | Free
+[JSON Formatter, Validator, Minifier, and Converter](https://jsonformatter.org) | Free
+[XML to JSON Converter](https://jsonformatter.org/xml-to-json) | Free
+[YAML to JSON Converter](https://jsonformatter.org/yaml-to-json) | Free
 
 **[&#8679; Back to Index](#index)**
 
@@ -224,6 +227,9 @@ Name | Cost
 [Sass website](https://sass-lang.com) | Free
 freeCodeCamp's [SASS course](https://www.freecodecamp.org/learn/front-end-libraries/#sass) | Free
 W3Schools's [Sass Tutorial](https://www.w3schools.com/sass/default.php) | Free
+[CSS to SCSS Converter](https://jsonformatter.org/css-to-scss) | Free
+[SCSS to CSS Converter](https://jsonformatter.org/scss-to-css) | Free
+[SCSS Formatter](https://jsonformatter.org/scss-formatter) | Free
 
 **[&#8679; Back to Index](#index)**
 
@@ -231,8 +237,11 @@ W3Schools's [Sass Tutorial](https://www.w3schools.com/sass/default.php) | Free
 Name | Cost
 ---- | ----
 [W3C Markup Validator](https://validator.w3.org) | Free
+[HTML Validator](https://jsonformatter.org/html-validator) from JSONformatter.org | Free
 [W3C CSS Validator](http://jigsaw.w3.org/css-validator) | Free
 [HTML tags list](https://html-css-js.com/html/tags) | Free
+[HTML Formatter](https://jsonformatter.org/html-formatter) | Free
+[CSS Formatter](https://jsonformatter.org/css-beautifier) | Free
 W3Schools's [HTML Color Picker](https://www.w3schools.com/colors/colors_picker.asp) | Free
 [Color Contrast Checker](https://webaim.org/resources/contrastchecker) | Free
 [Web Accessibility Evaluation Tool](https://wave.webaim.org) | Free
@@ -243,7 +252,7 @@ W3Schools's [HTML Color Picker](https://www.w3schools.com/colors/colors_picker.a
 [Image to Colors Palette Generator](http://www.cssdrive.com/imagepalette/index.php) | Free
 [Palette List](https://www.palettelist.com) | Free
 [Color Hunt](https://colorhunt.co) | Free
-[CSS Minifier](https://cssminifier.com) | Free
+[CSS Minifier](https://jsonformatter.org/minify-css) | Free
 
 **[&#8679; Back to Index](#index)**
 
@@ -313,6 +322,7 @@ Name | Cost
 [Unix/Linux Commands cheat sheet](http://www.cheat-sheets.org/saved-copy/fwunixref.pdf) | Free
 [Mastering Markdown course](https://masteringmarkdown.com) by Wes Bos | Free
 [Markdown cheat sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) | Free
+[Markdown Formatter](https://jsonformatter.org/markdown-formatter) | Free
 Udacity's [Writing READMEs course](https://www.udacity.com/course/writing-readmes--ud777) | Free
 [GitHub Desktop](https://desktop.github.com) | Free
 [Git cheat sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf) | Free
