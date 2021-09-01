@@ -35,6 +35,7 @@ Please read the [contributing guidelines](./CONTRIBUTING.md) before submitting n
   * [Express.js](#expressjs)
   * [JavaScript Testing](#javascript-testing)
 * [Other JavaScript Libraries](#other-javascript-libraries)
+* [Python](#python)
 
 ## General Resources
 
@@ -447,5 +448,34 @@ Codecademy's [Learn p5.js course](https://www.codecademy.com/learn/learn-p5js) |
 W3Schools's [TensorFlow Tutorial](https://www.w3schools.com/ai/ai_tensorflow_intro.asp) | Free
 [Brain.js website](https://brain.js.org) | Free
 Scrimba.com's [Neural networks in JavaScript course](https://scrimba.com/learn/neuralnetworks) | Free
+
+**[&#8679; Back to Index](#index)**
+
+## Python
+Name | Cost
+---- | ----
+[Python website](https://www.python.org) | Free
+W3Schools's [Python Tutorial](https://www.w3schools.com/python/default.asp) | Free
+Sololearn's [Python for Beginners course](https://www.sololearn.com/learning/1157) | Free with some Paid features
+Sololearn's [Python Data Structures course](https://www.sololearn.com/learning/1159) | Free with some Paid features
+Sololearn's [Intermediate Python course](https://www.sololearn.com/learning/1158) | Free with some Paid features
+Sololearn's [Python Core course](https://www.sololearn.com/learning/1073) | Free with some Paid features
+Sololearn's [Data Science course](https://www.sololearn.com/learning/1093) | Free
+Sololearn's [Python for Data Science course](https://www.sololearn.com/learning/1161) | Free with some Paid features
+Sololearn's [Machine Learning course](https://www.sololearn.com/learning/1094) | Free
+Scrimba.com's [Learn Python for free course](https://scrimba.com/learn/python) | Free
+freeCodeCamp's [Scientific Computing with Python Certification](https://www.freecodecamp.org/learn/scientific-computing-with-python) | Free
+freeCodeCamp's [Data Analysis with Python Certification](https://www.freecodecamp.org/learn/data-analysis-with-python) | Free
+freeCodeCamp's [Python for Penetration Testing course](https://www.freecodecamp.org/learn/information-security/#python-for-penetration-testing) | Free
+[Python tutorial](https://www.alphacodingskills.com/python/python-tutorial.php) on AlphaCodingSkills | Free
+[Python interview questions](https://www.alphacodingskills.com/interview/python-interview-questions.php) on AlphaCodingSkills | Free
+Udacity's [Introduction to Python Programming course](https://www.udacity.com/course/introduction-to-python--ud1110) | Free
+Codecademy's [Learn Python 3 course](https://www.codecademy.com/learn/learn-python-3) | Paid
+Codecademy's [Learn Intermediate Python 3 course](https://www.codecademy.com/learn/learn-intermediate-python-3) | Paid
+Codecademy's [Learn Object Oriented Programming with Python course](https://www.codecademy.com/learn/learn-object-oriented-programming-with-python) | Free
+Codecademy's [Learn Data Structures and Algorithms with Python course](https://www.codecademy.com/learn/learn-data-structures-and-algorithms-with-python) | Paid
+Codecademy's [Learn Recursion with Python course](https://www.codecademy.com/learn/learn-recursion-python) | Paid
+Codecademy's [Learn Sorting Algorithms with Python course](https://www.codecademy.com/learn/sorting-algorithms) | Paid
+Codecademy's [How to Implement Search Algorithms with Python course](https://www.codecademy.com/learn/search-algorithms) | Paid
 
 **[&#8679; Back to Index](#index)**
