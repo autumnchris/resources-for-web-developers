@@ -136,6 +136,7 @@ Udacity's [Intro to JavaScript course](https://www.udacity.com/course/intro-to-j
 Scrimba.com's [Introduction to JavaScript course](https://scrimba.com/learn/introductiontojavascript) | Free
 Scrimba.com's [Learn JavaScript for free course](https://scrimba.com/learn/learnjavascript) | Free
 Codecademy's [Learn JavaScript course](https://www.codecademy.com/learn/introduction-to-javascript) | Free
+Codecademy's [Learn Intermediate JavaScript course](https://www.codecademy.com/learn/learn-intermediate-javascript) | Free
 [JavaScript.info](https://javascript.info) | Free
 Sololearn's [JavaScript course](https://www.sololearn.com/learning/1024) | Free with some Paid features
 [Beginner JavaScript! course](https://beginnerjavascript.com) by Wes Bos | Paid
@@ -315,6 +316,7 @@ Name | Cost
 [Pickup Image](https://pickupimage.com) | Free
 [Foodiesfeed](https://www.foodiesfeed.com) | Free
 [CleanPNG transparent images](https://www.cleanpng.com) | Free
+[Free-Images.com](https://free-images.com) | Free
 [Icons8](https://icons8.com) | Free with Paid features
 [Iconfinder](https://www.iconfinder.com) | Free and Paid content
 [Noun Project](https://thenounproject.com) | Free with Paid features
@@ -426,12 +428,14 @@ Name | Cost
 ---- | ----
 [D3.js website](https://d3js.org) | Free
 freeCodeCamp's [Data Visualization Certification](https://www.freecodecamp.org/learn/data-visualization) | Free
+Scrimba.com's [Learn D3 for free course](https://scrimba.com/learn/d3js) | Free
 Udacity's [Data Visualization and D3.js course](https://www.udacity.com/course/data-visualization-and-d3js--ud507) | Free
 Codecademy's [Learn D3 course](https://www.codecademy.com/learn/learn-d3) | Paid
 [Chart.js website](https://www.chartjs.org) | Free
 [Moment.js website](https://momentjs.com) | Free
 [Vue.js website](https://vuejs.org) | Free
 Scrimba.com's [Learn Vue.js for free course](https://scrimba.com/learn/learnvue) | Free
+Codecademy's [Learn Vue.js course](https://www.codecademy.com/learn/learn-vue-js) | Paid
 [Angular website](https://angular.io) | Free
 Scrimba.com's [Build your first Angular app course](https://scrimba.com/learn/yourfirstangularapp) | Free
 [AngularJS website](https://angularjs.org) | Free
@@ -440,6 +444,7 @@ Codecademy's [Learn AngularJS 1.X course](https://www.codecademy.com/learn/learn
 [jQuery website](https://jquery.com) | Free
 W3Schools's [jQuery Tutorial](https://www.w3schools.com/jquery/default.asp) | Free
 Sololearn's [jQuery course](https://www.sololearn.com/learning/1082) | Free
+Codecademy's [Learn jQuery course](https://www.codecademy.com/learn/learn-jquery) | Paid
 [p5.js website](https://p5js.org) | Free
 Codecademy's [Learn p5.js course](https://www.codecademy.com/learn/learn-p5js) | Free
 [Webpack.js website](https://webpack.js.org) | Free
