@@ -12,6 +12,7 @@ Please read the [contributing guidelines](./CONTRIBUTING.md) before submitting n
   * [YouTube Channels](#youtube-channels)
   * [Blogs, Chats, and Forums](#blogs-chats-and-forums)
   * [Challenges and Algorithms](#challenges-and-algorithms)
+  * [MOOCs](#moocs)
   * [Books](#books)
   * [General Links and Tools](#general-links-and-tools)
 * [JavaScript](#javascript)
@@ -94,6 +95,22 @@ Name | Description | Cost
 Algorithms on freeCodeCamp | A collection of JavaScript algorithms split by difficulty listed as [Basic](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting), [Intermediate](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting), [Advanced](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#javascript-algorithms-and-data-structures-projects), and [Interview Prep](https://www.freecodecamp.org/learn/coding-interview-prep/#algorithms). | Free
 [Project Euler](https://projecteuler.net) | Hundreds of mathematical programming challenges that can be solved in the programming language of your choice. | Free
 [Computer Science course](https://www.khanacademy.org/computing/computer-science) on Khan Academy | A course for learning sorting algorithms and cryptography challenges in JavaScript that are ideal for interview prep. | Free
+
+**[&#8679; Back to Index](#index)**
+
+### MOOCs
+Name | Description | Cost
+---- | ----------- | ----
+[Programming for the Web with JavaScript](https://www.edx.org/course/programming-for-the-web-with-javascript) | Taught by the University of Pennsylvania on edX, this course teaches how to develop modern web apps using JavaScript, HTML, and CSS, as well as frameworks for both the front-end and the back-end. | Free to take, certificate is Paid
+[CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | Taught by Harvard University on edX, and one of the most well-known programming MOOCs, this course covers introductory computer science concepts and algorithms using C, Python, and JavaScript. | Free to take, certificate is Paid
+[CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) | Taught by Harvard University on edX, and a continuation of [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x), this course goes deeper into the languages of Python and JavaScript by teaching web app development using frameworks like Django and React.  | Free to take, certificate is Paid
+[CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python) | Taught by Harvard University on edX, and a continuation of [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x), this course introduces machine learning with Python for the use of adding artificial intelligence to applications. | Free to take, certificate is Paid
+[CS50's Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development) | Taught by Harvard University on edX, and a continuation of [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x), this course teaches how to implement graphics, sound, animation, etc into video games using technologies such as Lua, C#, and Unity. | Free to take, certificate is Paid
+[CS50's Mobile App Development with React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native) | Taught by Harvard University on edX, and a continuation of [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x), this course teaches modern mobile app development using React Native and JavaScript. | Free to take, certificate is Paid
+[The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp) on Udemy | This course teaches the core of what any modern web developer needs to know in order to make full-stack web applications with HTML, CSS, JavaScript, and Node.js. | Paid
+[The Advanced Web Developer Bootcamp](https://www.udemy.com/course/the-advanced-web-developer-bootcamp) on Udemy | A continuation of [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp), this courses dives deeper into web development, exploring more concepts including libraries like React and D3, JavaScript testing, and advanced CSS. | Paid
+[The Complete Node.js Developer Course (3rd Edition)](https://www.udemy.com/course/the-complete-nodejs-developer-course-2) on Udemy | This courses teaches how to build modern back-end web applications using Node.js, Express.js, and MongoDB. | Paid
+[Become a WordPress Developer: Unlocking Power With Code](https://www.udemy.com/course/become-a-wordpress-developer-php-javascript) on Udemy | This course teaches how to create modern custom-built WordPress sites from scratch with PHP and JavaScript. | Paid
 
 **[&#8679; Back to Index](#index)**
 
