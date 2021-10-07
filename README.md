@@ -152,6 +152,8 @@ W3Schools's [JavaScript Tutorial](https://www.w3schools.com/js/default.asp) | Fr
 Udacity's [Intro to JavaScript course](https://www.udacity.com/course/intro-to-javascript--ud803) | Free
 Scrimba.com's [Introduction to JavaScript course](https://scrimba.com/learn/introductiontojavascript) | Free
 Scrimba.com's [Learn JavaScript for free course](https://scrimba.com/learn/learnjavascript) | Free
+[JavaScript Basics tutorial](https://www.theodinproject.com/paths/foundations/courses/foundations#javascript-basics) on The Odin Project | Free
+[JavaScript course](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) on The Odin Project | Free
 Codecademy's [Learn JavaScript course](https://www.codecademy.com/learn/introduction-to-javascript) | Free
 Codecademy's [Learn Intermediate JavaScript course](https://www.codecademy.com/learn/learn-intermediate-javascript) | Free
 [JavaScript.info](https://javascript.info) | Free
@@ -160,6 +162,7 @@ Sololearn's [JavaScript course](https://www.sololearn.com/learning/1024) | Free 
 JavaScript Best Practices tutorial by Thinkful: [Part 1](https://www.thinkful.com/learn/javascript-best-practices-1), [Part 2](https://www.thinkful.com/learn/javascript-best-practices-2) | Free
 [JavaScript Formatter](https://jsonformatter.org/jsbeautifier) | Free
 Udacity's [JavaScript and the DOM course](https://www.udacity.com/course/javascript-and-the-dom--ud117) | Free
+Udacity's [Building High Conversion Web Forms course](https://www.udacity.com/course/building-high-conversion-web-forms--ud890) | Free
 Udacity's [Object-Oriented JavaScript course](https://www.udacity.com/course/object-oriented-javascript--ud711) | Free
 [JavaScript30 course](https://javascript30.com) by Wes Bos | Free
 [JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions) by [@sudheerj](https://github.com/sudheerj) on GitHub | Free
@@ -172,6 +175,7 @@ Name | Cost
 freeCodeCamp's [ES6 course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6) | Free
 Scrimba.com's [Introduction to ES6+ course](https://scrimba.com/learn/introtoes6) | Free
 Udacity's [ES6 - JavaScript Improved course](https://www.udacity.com/course/es6-javascript-improved--ud356) | Free
+[List of ES6 Features](https://github.com/lukehoban/es6features) by [@lukehoban](https://github.com/lukehoban) on GitHub | Free
 [ES6 for Everyone course](https://es6.io) by Wes Bos | Paid
 
 **[&#8679; Back to Index](#index)**
@@ -183,6 +187,7 @@ Name | Cost
 [Axios website](https://axios-http.com) | Free
 W3Schools's [JSON Tutorial](https://www.w3schools.com/js/js_json_intro.asp) | Free
 Udacity's [JavaScript Promises course](https://www.udacity.com/course/javascript-promises--ud898) | Free
+[Asynchronous JavaScript and APIs tutorial](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#asynchronous-javascript-and-apis) on The Odin Project | Free
 Codecademy's [Learn Asynchronous JavaScript course](https://www.codecademy.com/learn/asynchronous-javascript) | Paid
 [ProgrammableWeb](https://www.programmableweb.com) | Free
 [API list](https://github.com/public-apis/public-apis) by [@public-apis](https://github.com/public-apis) on GitHub | Free
@@ -215,6 +220,8 @@ Scrimba.com's [HTML & CSS Crash Course](https://scrimba.com/learn/htmlcss) | Fre
 Scrimba.com's [Introduction to HTML course](https://scrimba.com/learn/html) | Free
 Scrimba.com's [Introduction to CSS course](https://scrimba.com/learn/introtocss) | Free
 Udacity's [Intro to HTML and CSS course](https://www.udacity.com/course/intro-to-html-and-css--ud001) | Free
+[HTML Foundations tutorial](https://www.theodinproject.com/paths/foundations/courses/foundations#html-foundations) on The Odin Project | Free
+[CSS Foundations tutorial](https://www.theodinproject.com/paths/foundations/courses/foundations#css-foundations) on The Odin Project | Free
 Codecademy's [Learn HTML course](https://www.codecademy.com/learn/learn-html) | Free
 Codecademy's [Learn CSS course](https://www.codecademy.com/learn/learn-css) | Free
 Codecademy's [Learn Intermediate CSS course](https://www.codecademy.com/learn/learn-intermediate-css) | Free
@@ -235,6 +242,7 @@ Name | Cost
 ---- | ----
 freeCodeCamp's [CSS Flexbox course](https://www.freecodecamp.org/learn/responsive-web-design/#css-flexbox) | Free
 Scrimba.com's [Learn Flexbox for free course](https://scrimba.com/learn/flexbox) | Free
+[Flexbox tutorial](https://www.theodinproject.com/paths/foundations/courses/foundations#flexbox) on The Odin Project | Free
 [What the Flexbox?! course](https://flexbox.io) by Wes Bos | Free
 [Flexbox Playground](https://the-echoplex.net/flexyboxes) | Free
 [Flexbox cheat sheet](https://yoksel.github.io/flex-cheatsheet) | Free
@@ -263,6 +271,7 @@ Name | Cost
 [Sass website](https://sass-lang.com) | Free
 freeCodeCamp's [SASS course](https://www.freecodecamp.org/learn/front-end-libraries/#sass) | Free
 W3Schools's [Sass Tutorial](https://www.w3schools.com/sass/default.php) | Free
+Codecademy's [Learn Sass course](https://www.codecademy.com/learn/learn-sass) | Paid
 [CSS to SCSS Converter](https://jsonformatter.org/css-to-scss) | Free
 [SCSS to CSS Converter](https://jsonformatter.org/scss-to-css) | Free
 [SCSS Formatter](https://jsonformatter.org/scss-formatter) | Free
@@ -281,6 +290,7 @@ Name | Cost
 W3Schools's [HTML Color Picker](https://www.w3schools.com/colors/colors_picker.asp) | Free
 [Color Contrast Checker](https://webaim.org/resources/contrastchecker) | Free
 [Web Accessibility Evaluation Tool](https://wave.webaim.org) | Free
+[Normalize.css website](https://necolas.github.io/normalize.css) | Free
 [Autoprefixer CSS online](https://autoprefixer.github.io) | Free
 [CSS Gradient Generator](https://angrytools.com/gradient) | Free
 [Gradient Hunt](https://gradienthunt.com) | Free
@@ -362,6 +372,7 @@ Name | Cost
 [Markdown Formatter](https://jsonformatter.org/markdown-formatter) | Free
 Udacity's [Writing READMEs course](https://www.udacity.com/course/writing-readmes--ud777) | Free
 [GitHub Desktop](https://desktop.github.com) | Free
+[Git Basics tutorial](https://www.theodinproject.com/paths/foundations/courses/foundations#git-basics) on The Odin Project | Free
 [Git cheat sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf) | Free
 W3Schools's [Git Tutorial](https://www.w3schools.com/git/default.asp) | Free
 Udacity's [Version Control with Git course](https://www.udacity.com/course/version-control-with-git--ud123) | Free
@@ -375,6 +386,7 @@ Name | Cost
 W3Schools's [React Tutorial](https://www.w3schools.com/react/default.asp) | Free
 Codecademy's [Learn React course](https://www.codecademy.com/learn/react-101) | Free
 Scrimba.com's [Learn React for free course](https://scrimba.com/learn/learnreact) | Free
+[React JS tutorial](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#react-js) on The Odin Project | Free
 Sololearn's [React + Redux course](https://www.sololearn.com/learning/1097) | Free
 freeCodeCamp's [React course](https://www.freecodecamp.org/learn/front-end-libraries/#react) | Free
 [React Resources](https://github.com/enaqx/awesome-react) by [@enaqx](https://github.com/enaqx) on GitHub | Free
@@ -414,10 +426,12 @@ Name | Cost
 ["Understanding Express.js" article](http://evanhahn.com/understanding-express) by Evan Hahn | Free
 [Express.js cheat sheet](https://overapi.com/express) | Free
 freeCodeCamp's [Basic Node and Express course](https://www.freecodecamp.org/learn/apis-and-microservices/#basic-node-and-express) | Free
+[NodeJS course](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) on The Odin Project | Free
 [Pug website](https://pugjs.org) | Free
 [EJS website](https://ejs.co) | Free
 [Passport.js website](http://www.passportjs.org) | Free
 freeCodeCamp's [Advanced Node and Express course](https://www.freecodecamp.org/learn/quality-assurance/#advanced-node-and-express) | Free
+Codecademy's [Learn Express course](https://www.codecademy.com/learn/learn-express) | Paid
 Codecademy's [User Authentication & Authorization in Express course](https://www.codecademy.com/learn/user-authentication-authorization-express) | Free
 [Helmet.js website](https://helmetjs.github.io) | Free
 freeCodeCamp's [Information Security with HelmetJS course](https://www.freecodecamp.org/learn/information-security/#information-security-with-helmetjs) | Free
@@ -431,9 +445,10 @@ Name | Cost
 [Mocha.js website](https://mochajs.org) | Free
 [Chai.js website](https://www.chaijs.com) | Free
 [Jasmine website](https://jasmine.github.io) | Free
+[Jest website](https://jestjs.io) | Free
 freeCodeCamp's [Quality Assurance and Testing with Chai course](https://www.freecodecamp.org/learn/quality-assurance/#quality-assurance-and-testing-with-chai) | Free
 Udacity's [JavaScript Testing course](https://www.udacity.com/course/javascript-testing--ud549) | Free
-[Jest website](https://jestjs.io) | Free
+[Testing JavaScript tutorial](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#testing-javascript) on The Odin Project | Free
 Codecademy's [Learn React Testing course](https://www.codecademy.com/learn/learn-react-testing) | Free
 Codecademy's [Learn JavaScript Unit Testing course](https://www.codecademy.com/learn/learn-javascript-unit-testing) | Paid
 Codecademy's [Learn Testing for Web Development course](https://www.codecademy.com/learn/learn-testing-for-web-development) | Paid
@@ -478,26 +493,32 @@ Name | Cost
 ---- | ----
 [Python website](https://www.python.org) | Free
 W3Schools's [Python Tutorial](https://www.w3schools.com/python/default.asp) | Free
+[Python cheat sheet](https://overapi.com/python) | Free
 Sololearn's [Python for Beginners course](https://www.sololearn.com/learning/1157) | Free with some Paid features
-Sololearn's [Python Data Structures course](https://www.sololearn.com/learning/1159) | Free with some Paid features
 Sololearn's [Intermediate Python course](https://www.sololearn.com/learning/1158) | Free with some Paid features
 Sololearn's [Python Core course](https://www.sololearn.com/learning/1073) | Free with some Paid features
 Sololearn's [Data Science course](https://www.sololearn.com/learning/1093) | Free
 Sololearn's [Python for Data Science course](https://www.sololearn.com/learning/1161) | Free with some Paid features
+Sololearn's [Python Data Structures course](https://www.sololearn.com/learning/1159) | Free with some Paid features
 Sololearn's [Machine Learning course](https://www.sololearn.com/learning/1094) | Free
 Scrimba.com's [Learn Python for free course](https://scrimba.com/learn/python) | Free
 freeCodeCamp's [Scientific Computing with Python Certification](https://www.freecodecamp.org/learn/scientific-computing-with-python) | Free
 freeCodeCamp's [Data Analysis with Python Certification](https://www.freecodecamp.org/learn/data-analysis-with-python) | Free
 freeCodeCamp's [Python for Penetration Testing course](https://www.freecodecamp.org/learn/information-security/#python-for-penetration-testing) | Free
+freeCodeCamp's [Machine Learning with Python Certification](https://www.freecodecamp.org/learn/machine-learning-with-python) | Free
 [Python tutorial](https://www.alphacodingskills.com/python/python-tutorial.php) on AlphaCodingSkills | Free
 [Python interview questions](https://www.alphacodingskills.com/interview/python-interview-questions.php) on AlphaCodingSkills | Free
 Udacity's [Introduction to Python Programming course](https://www.udacity.com/course/introduction-to-python--ud1110) | Free
 Codecademy's [Learn Python 3 course](https://www.codecademy.com/learn/learn-python-3) | Paid
 Codecademy's [Learn Intermediate Python 3 course](https://www.codecademy.com/learn/learn-intermediate-python-3) | Paid
 Codecademy's [Learn Object Oriented Programming with Python course](https://www.codecademy.com/learn/learn-object-oriented-programming-with-python) | Free
+Codecademy's [Learn Data Analysis with Pandas course](https://www.codecademy.com/learn/data-processing-pandas) | Paid
+Codecademy's [Learn Statistics with NumPy course](https://www.codecademy.com/learn/intro-statistics-numpy) | Paid
+Codecademy's [Learn Data Visualization with Python course](https://www.codecademy.com/learn/data-visualization-python) | Paid
 Codecademy's [Learn Data Structures and Algorithms with Python course](https://www.codecademy.com/learn/learn-data-structures-and-algorithms-with-python) | Paid
 Codecademy's [Learn Recursion with Python course](https://www.codecademy.com/learn/learn-recursion-python) | Paid
 Codecademy's [Learn Sorting Algorithms with Python course](https://www.codecademy.com/learn/sorting-algorithms) | Paid
 Codecademy's [How to Implement Search Algorithms with Python course](https://www.codecademy.com/learn/search-algorithms) | Paid
+Codecademy's [Learn the Basics of Machine Learning course](https://www.codecademy.com/learn/machine-learning) | Paid
 
 **[&#8679; Back to Index](#index)**
