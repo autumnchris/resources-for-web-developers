@@ -65,6 +65,7 @@ Name | Cost
 [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw) | Free
 [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A) | Free
 [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw) | Free
+[Faraday Academy](https://www.youtube.com/channel/UCxA99Yr6P_tZF9_BgtMGAWA) | Free
 [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) | Free
 [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA) | Free
 
@@ -207,6 +208,7 @@ freeCodeCamp's [Regular Expressions course](https://www.freecodecamp.org/learn/j
 Codecademy's [Learn the Basics of Regular Expressions course](https://www.codecademy.com/learn/introduction-to-regular-expressions) | Free
 [Regular Expressions cheat sheet](https://cheatography.com/davechild/cheat-sheets/regular-expressions/pdf) | Free
 [regex101](https://regex101.com) | Free
+[HTML5Pattern](https://www.html5pattern.com) | Free
 
 **[&#8679; Back to Index](#index)**
 
@@ -222,6 +224,8 @@ Scrimba.com's [Introduction to CSS course](https://scrimba.com/learn/introtocss)
 Udacity's [Intro to HTML and CSS course](https://www.udacity.com/course/intro-to-html-and-css--ud001) | Free
 [HTML Foundations tutorial](https://www.theodinproject.com/paths/foundations/courses/foundations#html-foundations) on The Odin Project | Free
 [CSS Foundations tutorial](https://www.theodinproject.com/paths/foundations/courses/foundations#css-foundations) on The Odin Project | Free
+[Intermediate HTML and CSS course](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css) on The Odin Project | Free
+[Advanced HTML and CSS course](https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-html-and-css) on The Odin Project | Free
 Codecademy's [Learn HTML course](https://www.codecademy.com/learn/learn-html) | Free
 Codecademy's [Learn CSS course](https://www.codecademy.com/learn/learn-css) | Free
 Codecademy's [Learn Intermediate CSS course](https://www.codecademy.com/learn/learn-intermediate-css) | Free
@@ -248,6 +252,7 @@ Scrimba.com's [Learn Flexbox for free course](https://scrimba.com/learn/flexbox)
 [Flexbox cheat sheet](https://yoksel.github.io/flex-cheatsheet) | Free
 freeCodeCamp's [CSS Grid course](https://www.freecodecamp.org/learn/responsive-web-design/#css-grid) | Free
 Scrimba.com's [Learn CSS Grid for free course](https://scrimba.com/learn/cssgrid) | Free
+[Grid tutorial](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css#grid) on The Odin Project | Free
 [CSS Grid course](https://cssgrid.io) by Wes Bos | Free
 [CSS Grid cheat sheet](https://yoksel.github.io/grid-cheatsheet) | Free
 
@@ -285,6 +290,7 @@ Name | Cost
 [HTML Validator](https://jsonformatter.org/html-validator) from JSONformatter.org | Free
 [W3C CSS Validator](http://jigsaw.w3.org/css-validator) | Free
 [HTML tags list](https://html-css-js.com/html/tags) | Free
+[CSS cheat sheet](https://websitesetup.org/wp-content/uploads/2019/11/wsu-css-cheat-sheet-gdocs.pdf) | Free
 [HTML Formatter](https://jsonformatter.org/html-formatter) | Free
 [CSS Formatter](https://jsonformatter.org/css-beautifier) | Free
 W3Schools's [HTML Color Picker](https://www.w3schools.com/colors/colors_picker.asp) | Free
@@ -479,6 +485,8 @@ Sololearn's [jQuery course](https://www.sololearn.com/learning/1082) | Free
 Codecademy's [Learn jQuery course](https://www.codecademy.com/learn/learn-jquery) | Paid
 [p5.js website](https://p5js.org) | Free
 Codecademy's [Learn p5.js course](https://www.codecademy.com/learn/learn-p5js) | Free
+[Three.js webspite](https://threejs.org) | Free
+[ProgressBar.js website](https://progressbarjs.readthedocs.io/en/latest/) | Free
 [Webpack.js website](https://webpack.js.org) | Free
 [Babel.js website](https://babeljs.io) | Free
 [TensorFlow website](https://www.tensorflow.org) | Free
