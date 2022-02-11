@@ -140,7 +140,7 @@ Name | Cost
 [Scratch](https://scratch.mit.edu) | Free
 [Diffchecker](https://www.diffchecker.com) | Free with some Paid features
 [Can I use...](https://caniuse.com) | Free
-[Lorem Ipsum Generator](https://www.lipsum.com) | Free
+[Lorem Ipsum Generator](https://loremipsum.io) | Free
 ["How to Use Google to Solve Your Programming Questions" article](https://codinginflow.com/google-programming-questions) | Free
 
 **[&#8679; Back to Index](#index)**
@@ -360,7 +360,7 @@ Name | Cost
 Name | Cost
 ---- | ----
 [cssFilters.co](https://www.cssfilters.co) | Free
-[Placeholder.com](https://placeholder.com) | Free
+[Dynamic Dummy Image Generator](https://dummyimage.com) | Free
 [TinyPNG](https://tinypng.com) | Free with Paid features
 [Remove Image Background tool](https://www.remove.bg) | Free with Paid features
 [Photopea](https://www.photopea.com) | Free
