@@ -83,7 +83,9 @@ Name | Cost
 [The Odin Project's Discord server](https://discord.com/invite/fbFCkYabZB) | Free
 [Codecademy's forum](https://discuss.codecademy.com) | Free
 [Codecademy's Discord server](https://discord.com/invite/codecademy) | Free
+[W3Schools's Discord server](https://discord.gg/6Z7UaRbUQM) | Free
 [Thinkful's blog](https://www.thinkful.com/blog) | Free
+[Ben Ilegbodu's blog](https://www.benmvp.com) | Free
 [Web Dev Simplified's blog](https://blog.webdevsimplified.com) | Free
 [Web Dev Simplified's Discord server](https://discord.com/invite/7StTjnR) | Free
 [Traversy Media's Discord server](https://discord.com/invite/s2ZBTbY) | Free
@@ -167,6 +169,7 @@ Udacity's [JavaScript and the DOM course](https://www.udacity.com/course/javascr
 Udacity's [Building High Conversion Web Forms course](https://www.udacity.com/course/building-high-conversion-web-forms--ud890) | Free
 Udacity's [Object-Oriented JavaScript course](https://www.udacity.com/course/object-oriented-javascript--ud711) | Free
 [JavaScript30 course](https://javascript30.com) by Wes Bos | Free
+Codecademy's [Learn TypeScript course](https://www.codecademy.com/learn/learn-typescript) | Free
 [JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions) by [@sudheerj](https://github.com/sudheerj) on GitHub | Free
 
 **[&#8679; Back to Index](#index)**
@@ -353,6 +356,7 @@ Name | Cost
 [Free-Images.com](https://free-images.com) | Free
 [Icons8](https://icons8.com) | Free with Paid features
 [Iconfinder](https://www.iconfinder.com) | Free and Paid content
+[Feather Icons](https://feathericons.com/) | Free
 [Noun Project](https://thenounproject.com) | Free with Paid features
 
 **[&#8679; Back to Index](#index)**
@@ -366,6 +370,7 @@ Name | Cost
 [Remove Image Background tool](https://www.remove.bg) | Free with Paid features
 [Photopea](https://www.photopea.com) | Free
 [Photo Image Editor Pixelstyle](https://apps.apple.com/us/app/photo-image-editor-pixelstyle/id1244649277?mt=12) | Free
+[Inkscape](https://inkscape.org/) | Free
 
 **[&#8679; Back to Index](#index)**
 
@@ -400,6 +405,7 @@ freeCodeCamp's [React course](https://www.freecodecamp.org/learn/front-end-libra
 [React Developer Tools extension for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en-US) | Free
 [React Router website](https://reactrouter.com) | Free
 Codecademy's [Learn React Router course](https://www.codecademy.com/learn/learn-react-router) | Free
+Codecademy's [Learn React Native course](https://www.codecademy.com/learn/learn-react-native) | Free
 [React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions) by [@sudheerj](https://github.com/sudheerj) on GitHub | Free
 
 **[&#8679; Back to Index](#index)**
