@@ -88,7 +88,6 @@ Name | Cost
 [Ben Ilegbodu's blog](https://www.benmvp.com) | Free
 [Web Dev Simplified's blog](https://blog.webdevsimplified.com) | Free
 [Web Dev Simplified's Discord server](https://discord.com/invite/7StTjnR) | Free
-[Traversy Media's Discord server](https://discord.com/invite/s2ZBTbY) | Free
 
 **[&#8679; Back to Index](#index)**
 
