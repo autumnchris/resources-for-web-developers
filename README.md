@@ -60,15 +60,16 @@ Name | Cost
 ### YouTube Channels
 Name | Cost
 ---- | ----
-[freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) | Free
-[Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA) | Free
-[LearnWebCode](https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ) | Free
-[Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw) | Free
-[CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A) | Free
-[Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw) | Free
-[Faraday Academy](https://www.youtube.com/channel/UCxA99Yr6P_tZF9_BgtMGAWA) | Free
-[The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) | Free
-[Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA) | Free
+[freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp) | Free
+[Traversy Media](https://www.youtube.com/c/TraversyMedia) | Free
+[LearnWebCode](https://www.youtube.com/user/LearnWebCode) | Free
+[Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified) | Free
+[CS Dojo](https://www.youtube.com/c/CSDojo) | Free
+[Kevin Powell](https://www.youtube.com/kepowob) | Free
+[CS50](https://www.youtube.com/c/cs50) | Free
+[Faraday Academy](https://www.youtube.com/c/FaradayAcademy) | Free
+[The Coding Train](https://www.youtube.com/c/TheCodingTrain) | Free
+[Florin Pop](https://www.youtube.com/c/FlorinPopA) | Free
 
 **[&#8679; Back to Index](#index)**
 
@@ -88,6 +89,7 @@ Name | Cost
 [Ben Ilegbodu's blog](https://www.benmvp.com) | Free
 [Web Dev Simplified's blog](https://blog.webdevsimplified.com) | Free
 [Web Dev Simplified's Discord server](https://discord.com/invite/7StTjnR) | Free
+[CS50's Discord server](https://discord.com/invite/cs50) | Free
 
 **[&#8679; Back to Index](#index)**
 
@@ -99,6 +101,7 @@ Algorithms on freeCodeCamp | A collection of JavaScript algorithms split by diff
 [Project Euler](https://projecteuler.net) | Hundreds of mathematical programming challenges that can be solved in the programming language of your choice. | Free
 [Computer Science course](https://www.khanacademy.org/computing/computer-science) on Khan Academy | A course for learning sorting algorithms and cryptography challenges in JavaScript that are ideal for interview prep. | Free
 [Sorting Algorithms Visualization Comparisons](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html) | Animated visualizations of the functioning of various popular sorting algorithms. | Free
+[Frontend Mentor](https://www.frontendmentor.io) | A collection of several frontend projects that can be completed and shared with other developers in the community. | Free and Paid content
 
 **[&#8679; Back to Index](#index)**
 
@@ -124,6 +127,7 @@ Consider the probability of the information in the books provided to be out of d
 
 Name | Cost
 ---- | ----
+*JavaScript: The Definitive Guide* by David Flanagan | Paid, but Free if available at your public or university library
 *Learning Web App Development: Build Quickly with Proven JavaScript Techniques* by Semmy Purewal | Paid, but Free if available at your public or university library
 *JavaScript: The Good Parts* by Douglas Crockford | Paid, but Free if available at your public or university library
 *[Think Like a Programmer: An Introduction to Creative Problem Solving](http://vantonspraul.com/TLAP)* by V. Anton Spraul | Paid, but Free if available at your public or university library
@@ -520,8 +524,10 @@ Udacity's [Data Wrangling with MongoDB course](https://www.udacity.com/course/da
 Name | Cost
 ---- | ----
 [Python website](https://www.python.org) | Free
+[PyPi website](https://pypi.org) | Free
 W3Schools's [Python Tutorial](https://www.w3schools.com/python/default.asp) | Free
 [Python cheat sheet](https://overapi.com/python) | Free
+[pytest](https://docs.pytest.org/en/7.1.x) | Free
 Sololearn's [Python for Beginners course](https://www.sololearn.com/learning/1157) | Free with some Paid features
 Sololearn's [Intermediate Python course](https://www.sololearn.com/learning/1158) | Free with some Paid features
 Sololearn's [Python Core course](https://www.sololearn.com/learning/1073) | Free with some Paid features
