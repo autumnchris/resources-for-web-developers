@@ -11,7 +11,7 @@ Please read the [contributing guidelines](./CONTRIBUTING.md) before submitting n
   * [Tutorials and Docs](#tutorials-and-docs)
   * [YouTube Channels](#youtube-channels)
   * [Blogs, Chats, and Forums](#blogs-chats-and-forums)
-  * [Challenges and Algorithms](#challenges-and-algorithms)
+  * [Challenges, Algorithms, and Data Structures](#challenges-algorithms-and-data-structures)
   * [MOOCs](#moocs)
   * [Books](#books)
   * [General Links and Tools](#general-links-and-tools)
@@ -89,19 +89,24 @@ Name | Cost
 [Ben Ilegbodu's blog](https://www.benmvp.com) | Free
 [Web Dev Simplified's blog](https://blog.webdevsimplified.com) | Free
 [Web Dev Simplified's Discord server](https://discord.com/invite/7StTjnR) | Free
+[Kevin Powell's Discord server](https://discord.com/invite/nTYCvrK) | Free
 [CS50's Discord server](https://discord.com/invite/cs50) | Free
 
 **[&#8679; Back to Index](#index)**
 
-### Challenges and Algorithms
+### Challenges, Algorithms, and Data Structures
 Name | Description | Cost
 ---- | ----------- | ----
 [Codewars](https://www.codewars.com) | A popular gamified site for completing community-driven challenges customized by your preferred programming languages and experience level.   | Free with some Paid features
 Algorithms on freeCodeCamp | A collection of JavaScript algorithms split by difficulty listed as [Basic](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting), [Intermediate](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting), [Advanced](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#javascript-algorithms-and-data-structures-projects), and [Interview Prep](https://www.freecodecamp.org/learn/coding-interview-prep/#algorithms). | Free
 [Project Euler](https://projecteuler.net) | Hundreds of mathematical programming challenges that can be solved in the programming language of your choice. | Free
-[Computer Science course](https://www.khanacademy.org/computing/computer-science) on Khan Academy | A course for learning sorting algorithms and cryptography challenges in JavaScript that are ideal for interview prep. | Free
+[Computer Science course](https://www.khanacademy.org/computing/computer-science) on Khan Academy | A course for learning sorting algorithms and cryptography challenges in JavaScript. | Free
+[A Bit of Computer Science tutorial](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#a-bit-of-computer-science) on The Odin Project | A taste of computer science for the JavaScript developer featuring articles and projects for learning DSA. | Free
+freeCodeCamp's [Data Structures course](https://www.freecodecamp.org/learn/coding-interview-prep/#data-structures) | Test your knowledge of Data Structures with these lessons and challenges on the subject provided in JavaScript. | Free
 [Sorting Algorithms Visualization Comparisons](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html) | Animated visualizations of the functioning of various popular sorting algorithms. | Free
 [Frontend Mentor](https://www.frontendmentor.io) | A collection of several frontend projects that can be completed and shared with other developers in the community. | Free and Paid content
+[NeetCode](https://neetcode.io) | Practice algorithms for interview prep for free and watch courses on DSA with a Pro membership. | Free and Paid content
+[LeetCode](https://leetcode.com) | Challenges, Study Plans, Interview Prep for top companies, and more. A well known study platform in the industry. | Free and Paid content
 
 **[&#8679; Back to Index](#index)**
 
@@ -174,6 +179,7 @@ Udacity's [JavaScript and the DOM course](https://www.udacity.com/course/javascr
 Udacity's [Building High Conversion Web Forms course](https://www.udacity.com/course/building-high-conversion-web-forms--ud890) | Free
 Udacity's [Object-Oriented JavaScript course](https://www.udacity.com/course/object-oriented-javascript--ud711) | Free
 [JavaScript30 course](https://javascript30.com) by Wes Bos | Free
+[Web APIs list](https://developer.mozilla.org/en-US/docs/Web/API) on MDN | Free
 Codecademy's [Learn TypeScript course](https://www.codecademy.com/learn/learn-typescript) | Free
 [JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions) by [@sudheerj](https://github.com/sudheerj) on GitHub | Free
 
@@ -406,6 +412,7 @@ Scrimba.com's [Learn React for free course](https://scrimba.com/learn/learnreact
 [React JS tutorial](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#react-js) on The Odin Project | Free
 Sololearn's [React + Redux course](https://www.sololearn.com/learning/1097) | Free
 freeCodeCamp's [React course](https://www.freecodecamp.org/learn/front-end-libraries/#react) | Free
+[React Hooks Simplified course](https://courses.webdevsimplified.com/react-hooks-simplified) | Free
 [React Resources](https://github.com/enaqx/awesome-react) by [@enaqx](https://github.com/enaqx) on GitHub | Free
 [React Developer Tools extension for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en-US) | Free
 [React Router website](https://reactrouter.com) | Free
