@@ -136,6 +136,7 @@ Name | Cost
 *Learning Web App Development: Build Quickly with Proven JavaScript Techniques* by Semmy Purewal | Paid, but Free if available at your public or university library
 *JavaScript: The Good Parts* by Douglas Crockford | Paid, but Free if available at your public or university library
 *[Think Like a Programmer: An Introduction to Creative Problem Solving](http://vantonspraul.com/TLAP)* by V. Anton Spraul | Paid, but Free if available at your public or university library
+*[A Mind For Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)](https://barbaraoakley.com/books/a-mind-for-numbers)* by Barbara Oakley | Paid, but Free if available at your public or university library
 *[Functional Design Patterns for Express.js: A step-by-step guide to building elegant, maintainable Node.js backends.](https://jonathanleemartin.com/books)* by Jonathan Lee Martin | Paid
 *[Express in Action: Writing, building, and testing Node.js applications](https://www.manning.com/books/express-in-action)* by Evan M. Hahn | Free online, but print book and ebook are Paid
 *[Pro Git](https://git-scm.com/book/en/v2)* by Scott Chacon and Ben Straub | Free
