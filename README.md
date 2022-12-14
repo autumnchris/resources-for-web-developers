@@ -37,6 +37,7 @@ Please read the [contributing guidelines](./CONTRIBUTING.md) before submitting n
   * [JavaScript Testing](#javascript-testing)
 * [Other JavaScript Libraries](#other-javascript-libraries)
 * [MongoDB](#mongodb)
+* [WordPress](#wordpress)
 * [Python](#python)
 
 ## General Resources
@@ -525,6 +526,23 @@ freeCodeCamp's [MongoDB and Mongoose course](https://www.freecodecamp.org/learn/
 Udacity's [Data Wrangling with MongoDB course](https://www.udacity.com/course/data-wrangling-with-mongodb--ud032) | Free
 [Mongoose.js website](https://mongoosejs.com) | Free
 [MongoDB cheat sheet](https://webdevsimplified.com/mongodb-cheat-sheet.html) | Free
+
+**[&#8679; Back to Index](#index)**
+
+## WordPress
+Name | Cost
+---- | ----
+[WordPress Developer Resources](https://developer.wordpress.org) | Free
+[WordPress Codex](https://codex.wordpress.org) | Free
+[WPBeginner](https://www.wpbeginner.com) | Free
+[WordPress Stack Exchange](https://wordpress.stackexchange.com) | Free
+[Local](https://localwp.com) by Flywheel | Free
+Codecademy's [Learn PHP course](https://www.codecademy.com/learn/learn-php) | Free
+W3Schools's [PHP Tutorial](https://www.w3schools.com/php/default.asp) | Free
+Sololearn's [PHP course](https://www.sololearn.com/learning/1059) | Free
+[PHP tutorial](https://www.alphacodingskills.com/php/php-tutorial.php) on AlphaCodingSkills | Free
+[PHP interview questions](https://www.alphacodingskills.com/interview/php-interview-questions.php) on AlphaCodingSkills | Free
+[PHP Formatter](https://jsonformatter.org/php-formatter) | Free
 
 **[&#8679; Back to Index](#index)**
 
