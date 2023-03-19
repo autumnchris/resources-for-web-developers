@@ -49,6 +49,7 @@ Name | Cost
 [W3Schools](https://www.w3schools.com) | Free with some Paid content
 [MDN (Mozilla Developer Network)](https://developer.mozilla.org) | Free
 [freeCodeCamp](https://www.freecodecamp.org) | Free
+[JavaScript.info](https://javascript.info) | Free
 [DevDocs.io](https://devdocs.io) | Free
 [Devhints](https://devhints.io) | Free
 [The Odin Project](https://www.theodinproject.com) | Free
@@ -148,6 +149,7 @@ Name | Cost
 Name | Cost
 ---- | ----
 [Visual Studio Code](https://code.visualstudio.com) | Free
+[VS Code keyboard shortcuts cheat sheet](https://devhints.io/vscode) on Devhints | Free
 [Replit](https://replit.com) | Free with some Paid features
 [Code Playground](https://www.sololearn.com/codes) on Sololearn | Free
 [CodePen](https://codepen.io) | Free with some Paid features
@@ -190,6 +192,8 @@ Udacity's [Building High Conversion Web Forms course](https://www.udacity.com/co
 Udacity's [Object-Oriented JavaScript course](https://www.udacity.com/course/object-oriented-javascript--ud711) | Free
 [JavaScript30 course](https://javascript30.com) by Wes Bos | Free
 [Web APIs list](https://developer.mozilla.org/en-US/docs/Web/API) on MDN | Free
+[JavaScript Arrays cheat sheet](https://devhints.io/js-array) on Devhints | Free
+[JavaScript Date cheat sheet](https://devhints.io/js-date) on Devhints | Free
 [JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions) by [@sudheerj](https://github.com/sudheerj) on GitHub | Free
 Codecademy's [Technical Interview Practice with JavaScript course](https://www.codecademy.com/learn/technical-interview-practice-with-javascript) | Paid
 
@@ -203,6 +207,7 @@ Scrimba.com's [Introduction to ES6+ course](https://scrimba.com/learn/introtoes6
 Udacity's [ES6 - JavaScript Improved course](https://www.udacity.com/course/es6-javascript-improved--ud356) | Free
 [List of ES6 Features](https://github.com/lukehoban/es6features) by [@lukehoban](https://github.com/lukehoban) on GitHub | Free
 [ES6 for Everyone course](https://es6.io) by Wes Bos | Paid
+[ES6 cheat sheet](https://devhints.io/es6) on Devhints | Free
 
 **[&#8679; Back to Index](#index)**
 
@@ -211,6 +216,7 @@ Name | Cost
 ---- | ----
 [Postman](https://www.postman.com) | Free with some Paid features
 [Axios website](https://axios-http.com) | Free
+[Fetch cheat sheet](https://devhints.io/python) on Devhints | Free
 W3Schools's [JSON Tutorial](https://www.w3schools.com/js/js_json_intro.asp) | Free
 Udacity's [JavaScript Promises course](https://www.udacity.com/course/javascript-promises--ud898) | Free
 [Asynchronous JavaScript and APIs tutorial](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#asynchronous-javascript-and-apis) on The Odin Project | Free
@@ -233,6 +239,7 @@ Name | Cost
 freeCodeCamp's [Regular Expressions course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions) | Free
 Codecademy's [Learn the Basics of Regular Expressions course](https://www.codecademy.com/learn/introduction-to-regular-expressions) | Free
 [Regular Expressions cheat sheet](https://cheatography.com/davechild/cheat-sheets/regular-expressions/pdf) | Free
+[Regular Expressions cheat sheet](https://devhints.io/regexp) on Devhints | Free
 [regex101](https://regex101.com) | Free
 [HTML5Pattern](https://www.html5pattern.com) | Free
 
@@ -250,6 +257,7 @@ Codecademy's [Learn TypeScript: Union Types course](https://www.codecademy.com/l
 Codecademy's [Learn TypeScript: Complex Types coures](https://www.codecademy.com/learn/learn-typescript-complex-types) | Free
 Codecademy's [Learn TypeScript: Type Narrowing course](https://www.codecademy.com/learn/learn-typescript-type-narrowing) | Free
 Codecademy's [Learn Intermediate TypeScript course](https://www.codecademy.com/learn/learn-intermediate-type-script) | Paid
+[TypeScript cheat sheet](https://devhints.io/typescript) on Devhints | Free
 
 **[&#8679; Back to Index](#index)**
 
@@ -306,11 +314,13 @@ Scrimba.com's [Learn Flexbox for free course](https://scrimba.com/learn/flexbox)
 [What the Flexbox?! course](https://flexbox.io) by Wes Bos | Free
 [Flexbox Playground](https://the-echoplex.net/flexyboxes) | Free
 [Flexbox cheat sheet](https://yoksel.github.io/flex-cheatsheet) | Free
+[Flexbox cheat sheet](https://devhints.io/css-flexbox) on Devhints | Free
 freeCodeCamp's [CSS Grid course](https://www.freecodecamp.org/learn/responsive-web-design/#css-grid) | Free
 Scrimba.com's [Learn CSS Grid for free course](https://scrimba.com/learn/cssgrid) | Free
 [Grid tutorial](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css#grid) on The Odin Project | Free
 [CSS Grid course](https://cssgrid.io) by Wes Bos | Free
 [CSS Grid cheat sheet](https://yoksel.github.io/grid-cheatsheet) | Free
+[CSS Grid cheat sheet](https://devhints.io/css-grid) on Devhints | Free
 
 **[&#8679; Back to Index](#index)**
 
@@ -338,6 +348,7 @@ Codecademy's [Learn Sass: Fundamentals course](https://www.codecademy.com/learn/
 Codecademy's [Learn Sass: Functions and Operations course](https://www.codecademy.com/learn/learn-sass-functions-and-operations) | Free
 Codecademy's [Learn Sass: Mixins and Parent Selector course](https://www.codecademy.com/learn/learn-sass-mixins-and-the-parent-selector) | Free
 Codecademy's [Learn Sass: Best Practices course](https://www.codecademy.com/learn/learn-sass-best-practices) | Free
+[Sass cheat sheet](https://devhints.io/sass) on Devhints | Free
 [CSS to SCSS Converter](https://jsonformatter.org/css-to-scss) | Free
 [SCSS to CSS Converter](https://jsonformatter.org/scss-to-css) | Free
 [SCSS Formatter](https://jsonformatter.org/scss-formatter) | Free
@@ -351,7 +362,9 @@ Name | Cost
 [HTML Validator](https://jsonformatter.org/html-validator) from JSONformatter.org | Free
 [W3C CSS Validator](http://jigsaw.w3.org/css-validator) | Free
 [HTML tags list](https://html-css-js.com/html/tags) | Free
+[HTML input tag cheat sheet](https://devhints.io/html-input) on Devhints | Free
 [CSS cheat sheet](https://websitesetup.org/wp-content/uploads/2019/11/wsu-css-cheat-sheet-gdocs.pdf) | Free
+[CSS cheat sheet](https://devhints.io/css) on Devhints | Free
 [HTML Formatter](https://jsonformatter.org/html-formatter) | Free
 [CSS Formatter](https://jsonformatter.org/css-beautifier) | Free
 W3Schools's [HTML Color Picker](https://www.w3schools.com/colors/colors_picker.asp) | Free
@@ -439,6 +452,7 @@ Codecademy's [Learn the Command Line course](https://www.codecademy.com/learn/le
 [Unix/Linux Commands cheat sheet](http://www.cheat-sheets.org/saved-copy/fwunixref.pdf) | Free
 [Mastering Markdown course](https://masteringmarkdown.com) by Wes Bos | Free
 [Markdown cheat sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) | Free
+[Markdown cheat sheet](https://devhints.io/markdown) on Devhints | Free
 [Markdown Formatter](https://jsonformatter.org/markdown-formatter) | Free
 Udacity's [Writing READMEs course](https://www.udacity.com/course/writing-readmes--ud777) | Free
 [GitHub Desktop](https://desktop.github.com) | Free
@@ -473,6 +487,7 @@ Sololearn's [React + Redux course](https://www.sololearn.com/learning/1097) | Fr
 freeCodeCamp's [React course](https://www.freecodecamp.org/learn/front-end-libraries/#react) | Free
 [React Hooks Simplified course](https://courses.webdevsimplified.com/react-hooks-simplified) | Free
 [React Resources](https://github.com/enaqx/awesome-react) by [@enaqx](https://github.com/enaqx) on GitHub | Free
+[React cheat sheet](https://devhints.io/react) on Devhints | Free
 [React Developer Tools extension for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en-US) | Free
 [React Router website](https://reactrouter.com) | Free
 Codecademy's [Learn React Router v6 course](https://www.codecademy.com/learn/learn-react-router) | Free
@@ -492,6 +507,7 @@ Codecademy's [Learn Redux: Middleware and Thunks course](https://www.codecademy.
 Codecademy's [Learn Redux: React Redux course](https://www.codecademy.com/learn/learn-redux-react-redux) | Free
 freeCodeCamp's [Redux course](https://www.freecodecamp.org/learn/front-end-libraries/#redux) | Free
 freeCodeCamp's [React and Redux course](https://www.freecodecamp.org/learn/front-end-libraries/#react-and-redux) | Free
+[Redux cheat sheet](https://devhints.io/redux) on Devhints | Free
 
 **[&#8679; Back to Index](#index)**
 
@@ -500,6 +516,7 @@ Name | Cost
 ---- | ----
 [Node.js website](https://nodejs.org/en) | Free
 [NPM website](https://www.npmjs.com) | Free with some Paid features
+[NPM cheat sheet](https://devhints.io/npm) on Devhints | Free
 freeCodeCamp's [Managing Packages with NPM course](https://www.freecodecamp.org/learn/apis-and-microservices/#managing-packages-with-npm) | Free
 Codecademy's [Learn Node.js course](https://www.codecademy.com/learn/learn-node-js) | Free
 Codecademy's [Learn Node.js: Fundamentals course](https://www.codecademy.com/learn/learn-nodejs-fundamentals) | Free
@@ -535,8 +552,11 @@ Name | Cost
 ---- | ----
 [Mocha.js website](https://mochajs.org) | Free
 [Chai.js website](https://www.chaijs.com) | Free
+[Chai.js cheat sheet](https://devhints.io/chai) on Devhints | Free
 [Jasmine website](https://jasmine.github.io) | Free
+[Jasmine cheat sheet](https://devhints.io/jasmine) on Devhints | Free
 [Jest website](https://jestjs.io) | Free
+[Jest cheat sheet](https://devhints.io/jest) on Devhints | Free
 freeCodeCamp's [Quality Assurance and Testing with Chai course](https://www.freecodecamp.org/learn/quality-assurance/#quality-assurance-and-testing-with-chai) | Free
 Udacity's [JavaScript Testing course](https://www.udacity.com/course/javascript-testing--ud549) | Free
 [Testing JavaScript tutorial](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#testing-javascript) on The Odin Project | Free
@@ -556,14 +576,17 @@ Udacity's [Data Visualization and D3.js course](https://www.udacity.com/course/d
 Codecademy's [Learn D3 course](https://www.codecademy.com/learn/learn-d3) | Paid
 [Chart.js website](https://www.chartjs.org) | Free
 [Moment.js website](https://momentjs.com) | Free
+[Moment.js cheat sheet](https://devhints.io/moment) on Devhints | Free
 [Vue.js website](https://vuejs.org) | Free
 Scrimba.com's [Learn Vue.js for free course](https://scrimba.com/learn/learnvue) | Free
 Codecademy's [Learn Vue.js course](https://www.codecademy.com/learn/learn-vue-js) | Paid
+[Vue.js cheat sheet](https://devhints.io/vue) on Devhints | Free
 [Angular website](https://angular.io) | Free
 Scrimba.com's [Build your first Angular app course](https://scrimba.com/learn/yourfirstangularapp) | Free
 [AngularJS website](https://angularjs.org) | Free
 W3Schools's [AngularJS Tutorial](https://www.w3schools.com/angular/default.asp) | Free
 Codecademy's [Learn AngularJS 1.X course](https://www.codecademy.com/learn/learn-angularjs) | Free
+[Angular.js cheat sheet](https://devhints.io/angularjs) on Devhints | Free
 [jQuery website](https://jquery.com) | Free
 W3Schools's [jQuery Tutorial](https://www.w3schools.com/jquery/default.asp) | Free
 Sololearn's [jQuery course](https://www.sololearn.com/learning/1082) | Free
@@ -613,6 +636,7 @@ Codecademy's [How to Analyze Business Metrics with SQL course](https://www.codec
 Codecademy's [Learn to Prevent SQL Injections with Node.js course](https://www.codecademy.com/learn/learn-to-prevent-sql-injections-with-node-js) | Paid
 Codecademy's [Learn Node-SQLite course](https://www.codecademy.com/learn/learn-node-sqlite) | Free
 [Knex Query Lab](https://michaelavila.com/knex-querylab) | Free
+[Knex cheat sheet](https://devhints.io/knex) on Devhints | Free
 
 **[&#8679; Back to Index](#index)**
 
@@ -647,6 +671,7 @@ Name | Cost
 [PyPi website](https://pypi.org) | Free
 W3Schools's [Python Tutorial](https://www.w3schools.com/python/default.asp) | Free
 [Python cheat sheet](https://overapi.com/python) | Free
+[Python cheat sheet](https://devhints.io/python) on Devhints | Free
 [pytest](https://docs.pytest.org/en/7.1.x) | Free
 Sololearn's [Python for Beginners course](https://www.sololearn.com/learning/1157) | Free with some Paid features
 Sololearn's [Intermediate Python course](https://www.sololearn.com/learning/1158) | Free with some Paid features
