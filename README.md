@@ -661,6 +661,7 @@ Sololearn's [PHP course](https://www.sololearn.com/learning/1059) | Free
 [PHP tutorial](https://www.alphacodingskills.com/php/php-tutorial.php) on AlphaCodingSkills | Free
 [PHP interview questions](https://www.alphacodingskills.com/interview/php-interview-questions.php) on AlphaCodingSkills | Free
 [PHP Formatter](https://jsonformatter.org/php-formatter) | Free
+[DevKinsta](https://kinsta.com/devkinsta/) by Kinsta | Free
 
 **[&#8679; Back to Index](#index)**
 
