@@ -94,6 +94,7 @@ Name | Cost
 [Web Dev Simplified's Discord server](https://discord.com/invite/7StTjnR) | Free
 [Kevin Powell's Discord server](https://discord.com/invite/nTYCvrK) | Free
 [CS50's Discord server](https://discord.com/invite/cs50) | Free
+[Scaler Blogs](https://www.scaler.com/blog/category/software-development/) | Free 
 
 **[&#8679; Back to Index](#index)**
 
