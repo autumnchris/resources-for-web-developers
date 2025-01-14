@@ -150,6 +150,9 @@ Name | Cost
 [Can I use...](https://caniuse.com) | Free
 [Lorem Ipsum Generator](https://loremipsum.io) | Free
 ["How to Use Google to Solve Your Programming Questions" article](https://codinginflow.com/google-programming-questions) | Free
+["Don’t Believe Anyone Who Tells You Learning To Code Is Easy" article](https://techcrunch.com/2014/05/24/dont-believe-anyone-who-tells-you-learning-to-code-is-easy/) | Free
+["Things I Wish Someone Had Told Me When I Was Learning How to Code" article](https://www.freecodecamp.org/news/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329/) | Free
+["How to be great at asking coding questions" article](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603) | Free
 
 **[&#8679; Back to Index](#index)**
 
@@ -213,6 +216,7 @@ Udacity's [JavaScript Promises course](https://www.udacity.com/course/javascript
 freeCodeCamp's [JSON APIs and AJAX course](https://www.freecodecamp.org/learn/data-visualization/#json-apis-and-ajax) | Free
 Codecademy's [Learn JavaScript: Asynchronous Programming](https://www.codecademy.com/learn/asynchronous-javascript) | Free
 Codecademy's [Learn JavaScript: Requests course](https://www.codecademy.com/learn/learn-javascript-requests) | Free
+["Understanding JavaScript Promises" article](https://www.digitalocean.com/community/tutorials/understanding-javascript-promises) | Free
 [API list](https://github.com/public-apis/public-apis) by [@public-apis](https://github.com/public-apis) on GitHub | Free
 [API list](https://github.com/n0shake/Public-APIs) by [@n0shake](https://github.com/n0shake) on GitHub | Free
 [JSONView extension for Chrome](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en-US) | Free
@@ -320,6 +324,7 @@ W3Schools's [Bootstrap 4 Tutorial](https://www.w3schools.com/bootstrap4/default.
 Scrimba.com's [Learn Bootstrap course](https://scrimba.com/learn/bootstrap4) | Free
 freeCodeCamp's [Bootstrap course](https://www.freecodecamp.org/learn/front-end-libraries/#bootstrap) | Free
 Codecademy's [Learn Bootstrap course](https://www.codecademy.com/learn/learn-bootstrap) | Paid
+["Bootstrap 3 Vs Bootstrap 4 : What’s New?" article](https://www.bootstrapdash.com/blog/bootstrap-3-vs-4) | Free
 
 **[&#8679; Back to Index](#index)**
 
@@ -469,6 +474,7 @@ Scrimba.com's [Learn React course](https://scrimba.com/learn/learnreact) | Free
 [React Course](https://www.theodinproject.com/paths/full-stack-javascript/courses/react) on The Odin Project | Free
 freeCodeCamp's [React course](https://www.freecodecamp.org/learn/front-end-libraries/#react) | Free
 [React Hooks Simplified course](https://courses.webdevsimplified.com/react-hooks-simplified) | Free
+["Demystifying useEffect's clean-up function" article](https://maxrozen.com/demystifying-useeffect-cleanup-function) | Free
 [React Resources](https://github.com/enaqx/awesome-react) by [@enaqx](https://github.com/enaqx) on GitHub | Free
 [React cheat sheet](https://devhints.io/react) on Devhints | Free
 [React Developer Tools extension for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en-US) | Free
