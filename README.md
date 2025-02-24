@@ -84,6 +84,7 @@ Name | Cost
 [The Odin Project's Discord server](https://discord.com/invite/fbFCkYabZB) | Free
 [Codecademy's forum](https://discuss.codecademy.com) | Free
 [Ben Ilegbodu's blog](https://www.benmvp.com) | Free
+[Josh Comeau's blog](https://www.joshwcomeau.com) | Free
 [Web Dev Simplified's blog](https://blog.webdevsimplified.com) | Free
 [Web Dev Simplified's Discord server](https://discord.com/invite/7StTjnR) | Free
 [Kevin Powell's Discord server](https://discord.com/invite/nTYCvrK) | Free
@@ -181,6 +182,7 @@ Codecademy's [Learn JavaScript: Best Practices course](https://www.codecademy.co
 [JavaScript.info](https://javascript.info) | Free
 [Beginner JavaScript! course](https://beginnerjavascript.com) by Wes Bos | Paid
 [JavaScript Formatter](https://jsonformatter.org/jsbeautifier) | Free
+[Josh Comeau's JS Operator Lookup](https://www.joshwcomeau.com/operator-lookup) | Free
 Udacity's [JavaScript and the DOM course](https://www.udacity.com/course/javascript-and-the-dom--ud117) | Free
 Udacity's [Building High Conversion Web Forms course](https://www.udacity.com/course/building-high-conversion-web-forms--ud890) | Free
 Udacity's [Object-Oriented JavaScript course](https://www.udacity.com/course/object-oriented-javascript--ud711) | Free
@@ -364,10 +366,13 @@ W3Schools's [HTML Color Picker](https://www.w3schools.com/colors/colors_picker.a
 [Normalize.css website](https://necolas.github.io/normalize.css) | Free
 [Autoprefixer CSS online](https://autoprefixer.github.io) | Free
 [CSS Gradient Generator](https://angrytools.com/gradient) | Free
+[Josh Comeau's CSS Gradient Generator](https://www.joshwcomeau.com/gradient-generator) | Free
 [Gradient Hunt](https://gradienthunt.com) | Free
 [Image to Colors Palette Generator](http://www.cssdrive.com/imagepalette/index.php) | Free
 [Color Hunt](https://colorhunt.co) | Free
+[Josh Comeau's CSS Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette) | Free
 [CSS Minifier](https://jsonformatter.org/minify-css) | Free
+[CSS Specificity Calculator](https://specificity.keegan.st) | Free
 
 **[&#8679; Back to Index](#index)**
 
