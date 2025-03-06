@@ -36,8 +36,7 @@ An ongoing collective list of recommended resources for web developers. The vast
   * [JavaScript Testing](#javascript-testing)
 * [Other JavaScript Libraries](#other-javascript-libraries)
 * [MongoDB](#mongodb)
-* [WordPress](#wordpress)
-* [Python](#python)
+* [SQL Databases](#sql-databases)
 
 ## General Resources
 
