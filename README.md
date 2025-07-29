@@ -186,6 +186,7 @@ Udacity's [JavaScript and the DOM course](https://www.udacity.com/course/javascr
 Udacity's [Building High Conversion Web Forms course](https://www.udacity.com/course/building-high-conversion-web-forms--ud890) | Free
 Udacity's [Object-Oriented JavaScript course](https://www.udacity.com/course/object-oriented-javascript--ud711) | Free
 [JavaScript30 course](https://javascript30.com) by Wes Bos | Free
+[JavaScript to JSON Converter](https://transform.tools/js-object-to-json) | Free
 [Web APIs list](https://developer.mozilla.org/en-US/docs/Web/API) on MDN | Free
 [JavaScript Arrays cheat sheet](https://devhints.io/js-array) on Devhints | Free
 [JavaScript Date cheat sheet](https://devhints.io/js-date) on Devhints | Free
@@ -223,8 +224,10 @@ Codecademy's [Learn JavaScript: Requests course](https://www.codecademy.com/lear
 [JSONView extension for Chrome](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en-US) | Free
 [HTTP Status Codes cheat sheet](http://www.cheat-sheets.org/saved-copy/http-response-codes-1.pdf) | Free
 [JSON Formatter, Validator, Minifier, and Converter](https://jsonformatter.org) | Free
-[XML to JSON Converter](https://jsonformatter.org/xml-to-json) | Free
-[YAML to JSON Converter](https://jsonformatter.org/yaml-to-json) | Free
+[XML to JSON Converter](https://jsonformatter.org/xml-to-json) on jsonconverter.org | Free
+[XML to JSON Converter](https://transform.tools/xml-to-json) on transform.tools | Free
+[YAML to JSON Converter](https://jsonformatter.org/yaml-to-json) on jsonconverter.org | Free
+[YAML to JSON Converter](https://transform.tools/yaml-to-json) on transform.tools | Free
 
 **[&#8679; Back to Index](#index)**
 
@@ -252,6 +255,8 @@ Codecademy's [Learn TypeScript: Complex Types coures](https://www.codecademy.com
 Codecademy's [Learn TypeScript: Type Narrowing course](https://www.codecademy.com/learn/learn-typescript-type-narrowing) | Free
 Codecademy's [Learn Intermediate TypeScript course](https://www.codecademy.com/learn/learn-intermediate-type-script) | Paid
 [TypeScript cheat sheet](https://devhints.io/typescript) on Devhints | Free
+[JavaScript to TypeScript Converter](https://transform.tools/js-object-to-typescript) | Free
+[TypeScript to JavaScript Converter](https://transform.tools/typescript-to-javascript) | Free
 
 **[&#8679; Back to Index](#index)**
 
@@ -446,6 +451,7 @@ Codecademy's [Learn the Command Line course](https://www.codecademy.com/learn/le
 [Mastering Markdown course](https://masteringmarkdown.com) by Wes Bos | Free
 [Markdown cheat sheet](https://devhints.io/markdown) on Devhints | Free
 [Markdown Formatter](https://jsonformatter.org/markdown-formatter) | Free
+[Markdown to HTML Converter](https://transform.tools/markdown-to-html) | Free
 Udacity's [Writing READMEs course](https://www.udacity.com/course/writing-readmes--ud777) | Free
 [GitHub Desktop](https://desktop.github.com) | Free
 [Git Basics tutorial](https://www.theodinproject.com/paths/foundations/courses/foundations#git-basics) on The Odin Project | Free
@@ -479,6 +485,7 @@ Scrimba.com's [Learn React course](https://scrimba.com/learn/learnreact) | Free
 freeCodeCamp's [React course](https://www.freecodecamp.org/learn/front-end-libraries/#react) | Free
 [React Hooks Simplified course](https://courses.webdevsimplified.com/react-hooks-simplified) | Free
 ["Demystifying useEffect's clean-up function" article](https://maxrozen.com/demystifying-useeffect-cleanup-function) | Free
+[HTML to JSX Converter](https://transform.tools/html-to-jsx) | Free
 [React Resources](https://github.com/enaqx/awesome-react) by [@enaqx](https://github.com/enaqx) on GitHub | Free
 [React cheat sheet](https://devhints.io/react) on Devhints | Free
 [React Developer Tools extension for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en-US) | Free
@@ -603,7 +610,7 @@ Scrimba.com's [Neural Networks in JavaScript course](https://scrimba.com/learn/n
 
 **[&#8679; Back to Index](#index)**
 
-## MongoDB
+## MongoDB Databases
 Name | Cost
 ---- | ----
 [MongoDB website](https://www.mongodb.com) | Free and Paid services
